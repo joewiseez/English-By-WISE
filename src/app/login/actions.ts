@@ -1,8 +1,10 @@
 "use server";
+import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 
-const site = () => process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+// Origin dari permintaan: benar di localhost, Vercel, dan pratinjau tanpa mengatur NEXT_PUBLIC_SITE_URL.
+const site = () => headers().get("origin") ?? process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 const back = (key: "error" | "info", msg: string): never => redirect(`/login?${key}=${encodeURIComponent(msg)}`);
 
 export async function signIn(formData: FormData) {

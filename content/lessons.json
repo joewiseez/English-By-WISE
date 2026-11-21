@@ -1,7 +1,7 @@
 {
  "categories": [
   {
-   "n": "Kosa kata",
+   "n": "A1 Kosa kata",
    "desc": "Kata sehari-hari, dari sapaan sampai kata kerja",
    "lessons": [
     {
@@ -702,11 +702,1099 @@
        "Saya suka bahasa Inggris"
       ]
      ]
+    },
+    {
+     "id": "v10",
+     "t": "Anggota tubuh",
+     "note": "Banyak anggota tubuh berbentuk jamak tidak biasa: one foot menjadi two feet, one tooth menjadi two teeth.",
+     "ph": 0,
+     "v": [
+      [
+       "Head",
+       "Kepala"
+      ],
+      [
+       "Eye",
+       "Mata"
+      ],
+      [
+       "Ear",
+       "Telinga"
+      ],
+      [
+       "Nose",
+       "Hidung"
+      ],
+      [
+       "Mouth",
+       "Mulut"
+      ],
+      [
+       "Hand",
+       "Tangan"
+      ],
+      [
+       "Arm",
+       "Lengan"
+      ],
+      [
+       "Leg",
+       "Kaki (tungkai)"
+      ],
+      [
+       "Foot",
+       "Kaki (telapak)"
+      ],
+      [
+       "Hair",
+       "Rambut"
+      ],
+      [
+       "Tooth",
+       "Gigi"
+      ],
+      [
+       "Heart",
+       "Jantung"
+      ]
+     ],
+     "f": [
+      [
+       "I see with my ___.",
+       "eyes",
+       [
+        "eyes",
+        "ears",
+        "hands"
+       ],
+       "Saya melihat dengan mata saya."
+      ],
+      [
+       "I write with my ___.",
+       "hand",
+       [
+        "hand",
+        "nose",
+        "ear"
+       ],
+       "Saya menulis dengan tangan saya."
+      ]
+     ],
+     "o": [
+      [
+       "I have two hands",
+       "Saya punya dua tangan"
+      ],
+      [
+       "My head hurts",
+       "Kepalaku sakit"
+      ]
+     ]
+    },
+    {
+     "id": "v11",
+     "t": "Pakaian",
+     "note": "Pants, shoes, socks, dan glasses selalu berbentuk jamak: kita bilang my pants are new, bukan my pants is new.",
+     "ph": 0,
+     "v": [
+      [
+       "Shirt",
+       "Kemeja"
+      ],
+      [
+       "Pants",
+       "Celana panjang"
+      ],
+      [
+       "Dress",
+       "Gaun"
+      ],
+      [
+       "Skirt",
+       "Rok"
+      ],
+      [
+       "Shoes",
+       "Sepatu"
+      ],
+      [
+       "Socks",
+       "Kaos kaki"
+      ],
+      [
+       "Hat",
+       "Topi"
+      ],
+      [
+       "Jacket",
+       "Jaket"
+      ],
+      [
+       "Glasses",
+       "Kacamata"
+      ],
+      [
+       "Watch",
+       "Jam tangan"
+      ]
+     ],
+     "f": [
+      [
+       "She wears a red ___.",
+       "dress",
+       [
+        "dress",
+        "shoes",
+        "pants"
+       ],
+       "Dia memakai gaun merah."
+      ],
+      [
+       "My ___ are new.",
+       "shoes",
+       [
+        "shoes",
+        "hat",
+        "shirt"
+       ],
+       "Sepatuku baru."
+      ]
+     ],
+     "o": [
+      [
+       "I wear a blue shirt",
+       "Saya memakai kemeja biru"
+      ],
+      [
+       "Her shoes are black",
+       "Sepatunya hitam"
+      ]
+     ]
+    },
+    {
+     "id": "v12",
+     "t": "Hewan",
+     "note": "Pakai a untuk satu ekor hewan: a dog, a cat. Untuk banyak, tambahkan s: two dogs.",
+     "ph": 0,
+     "v": [
+      [
+       "Dog",
+       "Anjing"
+      ],
+      [
+       "Cat",
+       "Kucing"
+      ],
+      [
+       "Bird",
+       "Burung"
+      ],
+      [
+       "Horse",
+       "Kuda"
+      ],
+      [
+       "Cow",
+       "Sapi"
+      ],
+      [
+       "Duck",
+       "Bebek"
+      ],
+      [
+       "Rabbit",
+       "Kelinci"
+      ],
+      [
+       "Monkey",
+       "Monyet"
+      ],
+      [
+       "Sheep",
+       "Domba"
+      ],
+      [
+       "Goat",
+       "Kambing"
+      ]
+     ],
+     "f": [
+      [
+       "A ___ says meow.",
+       "cat",
+       [
+        "cat",
+        "dog",
+        "cow"
+       ],
+       "Kucing mengeong."
+      ],
+      [
+       "A duck swims in the ___.",
+       "water",
+       [
+        "water",
+        "tree",
+        "house"
+       ],
+       "Bebek berenang di dalam air."
+      ]
+     ],
+     "o": [
+      [
+       "I have a dog",
+       "Saya punya seekor anjing"
+      ],
+      [
+       "The cat is small",
+       "Kucing itu kecil"
+      ]
+     ]
+    },
+    {
+     "id": "v13",
+     "t": "Tempat",
+     "note": "Pakai in atau at untuk menyebut tempat: I am at school, I am in the park.",
+     "ph": 0,
+     "v": [
+      [
+       "House",
+       "Rumah"
+      ],
+      [
+       "School",
+       "Sekolah"
+      ],
+      [
+       "Hospital",
+       "Rumah sakit"
+      ],
+      [
+       "Market",
+       "Pasar"
+      ],
+      [
+       "Bank",
+       "Bank"
+      ],
+      [
+       "Park",
+       "Taman"
+      ],
+      [
+       "Restaurant",
+       "Restoran"
+      ],
+      [
+       "Library",
+       "Perpustakaan"
+      ],
+      [
+       "Station",
+       "Stasiun"
+      ],
+      [
+       "Shop",
+       "Toko"
+      ],
+      [
+       "Airport",
+       "Bandara"
+      ],
+      [
+       "Office",
+       "Kantor"
+      ]
+     ],
+     "f": [
+      [
+       "I read books in the ___.",
+       "library",
+       [
+        "library",
+        "hospital",
+        "bank"
+       ],
+       "Saya membaca buku di perpustakaan."
+      ],
+      [
+       "She works at the ___.",
+       "office",
+       [
+        "office",
+        "park",
+        "station"
+       ],
+       "Dia bekerja di kantor."
+      ]
+     ],
+     "o": [
+      [
+       "I am at school",
+       "Saya ada di sekolah"
+      ],
+      [
+       "The bank is near the station",
+       "Bank itu dekat stasiun"
+      ]
+     ]
+    },
+    {
+     "id": "v14",
+     "t": "Transportasi",
+     "note": "Pakai by untuk menyebut alat transportasi: by bus, by train. Setelah by tidak ada a atau the.",
+     "ph": 0,
+     "v": [
+      [
+       "Car",
+       "Mobil"
+      ],
+      [
+       "Bus",
+       "Bus"
+      ],
+      [
+       "Train",
+       "Kereta api"
+      ],
+      [
+       "Plane",
+       "Pesawat"
+      ],
+      [
+       "Bicycle",
+       "Sepeda"
+      ],
+      [
+       "Motorcycle",
+       "Sepeda motor"
+      ],
+      [
+       "Taxi",
+       "Taksi"
+      ],
+      [
+       "Boat",
+       "Perahu"
+      ],
+      [
+       "Ticket",
+       "Tiket"
+      ],
+      [
+       "Road",
+       "Jalan raya"
+      ]
+     ],
+     "f": [
+      [
+       "I go to school by ___.",
+       "bus",
+       [
+        "bus",
+        "a bus",
+        "the bus"
+       ],
+       "Saya pergi ke sekolah naik bus."
+      ],
+      [
+       "A ___ flies in the sky.",
+       "plane",
+       [
+        "plane",
+        "car",
+        "boat"
+       ],
+       "Pesawat terbang di langit."
+      ]
+     ],
+     "o": [
+      [
+       "I go by train",
+       "Saya pergi naik kereta api"
+      ],
+      [
+       "We take a taxi",
+       "Kami naik taksi"
+      ]
+     ]
+    },
+    {
+     "id": "v15",
+     "t": "Cuaca dan musim",
+     "note": "Untuk cuaca pakai it is + kata sifat: it is sunny, it is cloudy. Jangan lupa kata it.",
+     "ph": 0,
+     "v": [
+      [
+       "Sun",
+       "Matahari"
+      ],
+      [
+       "Rain",
+       "Hujan"
+      ],
+      [
+       "Wind",
+       "Angin"
+      ],
+      [
+       "Cloud",
+       "Awan"
+      ],
+      [
+       "Storm",
+       "Badai"
+      ],
+      [
+       "Snow",
+       "Salju"
+      ],
+      [
+       "Sunny",
+       "Cerah"
+      ],
+      [
+       "Cloudy",
+       "Berawan"
+      ],
+      [
+       "Summer",
+       "Musim panas"
+      ],
+      [
+       "Winter",
+       "Musim dingin"
+      ]
+     ],
+     "f": [
+      [
+       "It is ___ today.",
+       "sunny",
+       [
+        "sunny",
+        "sun",
+        "snow"
+       ],
+       "Hari ini cerah."
+      ],
+      [
+       "It ___ in the afternoon.",
+       "rains",
+       [
+        "rains",
+        "rain",
+        "rainy"
+       ],
+       "Hujan turun di siang hari."
+      ]
+     ],
+     "o": [
+      [
+       "It is cloudy today",
+       "Hari ini berawan"
+      ],
+      [
+       "I like the rain",
+       "Saya suka hujan"
+      ]
+     ]
+    },
+    {
+     "id": "v16",
+     "t": "Pekerjaan",
+     "note": "Untuk menyebut pekerjaan pakai a atau an: I am a teacher, she is an engineer (an sebelum bunyi vokal).",
+     "ph": 0,
+     "v": [
+      [
+       "Teacher",
+       "Guru"
+      ],
+      [
+       "Doctor",
+       "Dokter"
+      ],
+      [
+       "Nurse",
+       "Perawat"
+      ],
+      [
+       "Driver",
+       "Sopir"
+      ],
+      [
+       "Farmer",
+       "Petani"
+      ],
+      [
+       "Cook",
+       "Juru masak"
+      ],
+      [
+       "Student",
+       "Pelajar"
+      ],
+      [
+       "Police officer",
+       "Polisi"
+      ],
+      [
+       "Engineer",
+       "Insinyur"
+      ],
+      [
+       "Singer",
+       "Penyanyi"
+      ]
+     ],
+     "f": [
+      [
+       "She is ___ engineer.",
+       "an",
+       [
+        "an",
+        "a",
+        "the"
+       ],
+       "Dia seorang insinyur."
+      ],
+      [
+       "A ___ helps sick people.",
+       "doctor",
+       [
+        "doctor",
+        "driver",
+        "singer"
+       ],
+       "Dokter membantu orang sakit."
+      ]
+     ],
+     "o": [
+      [
+       "My father is a farmer",
+       "Ayahku seorang petani"
+      ],
+      [
+       "She is a good teacher",
+       "Dia guru yang baik"
+      ]
+     ]
+    },
+    {
+     "id": "v17",
+     "t": "Perasaan dan sifat",
+     "note": "Perasaan dinyatakan dengan I am + kata sifat: I am tired. Jangan pakai have: bukan I have hungry.",
+     "ph": 0,
+     "v": [
+      [
+       "Tired",
+       "Lelah"
+      ],
+      [
+       "Hungry",
+       "Lapar"
+      ],
+      [
+       "Thirsty",
+       "Haus"
+      ],
+      [
+       "Angry",
+       "Marah"
+      ],
+      [
+       "Afraid",
+       "Takut"
+      ],
+      [
+       "Busy",
+       "Sibuk"
+      ],
+      [
+       "Kind",
+       "Baik hati"
+      ],
+      [
+       "Funny",
+       "Lucu"
+      ],
+      [
+       "Smart",
+       "Pintar"
+      ],
+      [
+       "Shy",
+       "Pemalu"
+      ],
+      [
+       "Lazy",
+       "Malas"
+      ],
+      [
+       "Careful",
+       "Hati-hati"
+      ]
+     ],
+     "f": [
+      [
+       "I am ___ because I did not eat.",
+       "hungry",
+       [
+        "hungry",
+        "tired",
+        "busy"
+       ],
+       "Saya lapar karena belum makan."
+      ],
+      [
+       "He is very ___. We laugh a lot.",
+       "funny",
+       [
+        "funny",
+        "angry",
+        "shy"
+       ],
+       "Dia sangat lucu. Kami banyak tertawa."
+      ]
+     ],
+     "o": [
+      [
+       "I am very tired",
+       "Saya sangat lelah"
+      ],
+      [
+       "She is not afraid",
+       "Dia tidak takut"
+      ]
+     ]
+    },
+    {
+     "id": "v18",
+     "t": "Kata kerja sehari-hari",
+     "note": "Kata kerja dasar dipakai setelah I, you, we, they. Untuk he, she, it tambahkan s: she walks, he plays.",
+     "ph": 0,
+     "v": [
+      [
+       "Wake up",
+       "Bangun tidur"
+      ],
+      [
+       "Wash",
+       "Mencuci"
+      ],
+      [
+       "Make",
+       "Membuat"
+      ],
+      [
+       "Walk",
+       "Berjalan"
+      ],
+      [
+       "Run",
+       "Berlari"
+      ],
+      [
+       "Sit",
+       "Duduk"
+      ],
+      [
+       "Stand",
+       "Berdiri"
+      ],
+      [
+       "Open",
+       "Membuka"
+      ],
+      [
+       "Close",
+       "Menutup"
+      ],
+      [
+       "Listen",
+       "Mendengarkan"
+      ],
+      [
+       "Speak",
+       "Berbicara"
+      ],
+      [
+       "Play",
+       "Bermain"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ at six every morning.",
+       "wake up",
+       [
+        "wake up",
+        "wash",
+        "stand"
+       ],
+       "Saya bangun jam enam setiap pagi."
+      ],
+      [
+       "Please ___ the door.",
+       "open",
+       [
+        "open",
+        "sit",
+        "run"
+       ],
+       "Tolong buka pintunya."
+      ]
+     ],
+     "o": [
+      [
+       "I wake up early",
+       "Saya bangun pagi-pagi"
+      ],
+      [
+       "They play in the park",
+       "Mereka bermain di taman"
+      ]
+     ]
+    },
+    {
+     "id": "v19",
+     "t": "Rumah dan ruangan",
+     "note": "Nama ruangan dipakai dengan in: I am in the kitchen.",
+     "ph": 0,
+     "v": [
+      [
+       "Kitchen",
+       "Dapur"
+      ],
+      [
+       "Bedroom",
+       "Kamar tidur"
+      ],
+      [
+       "Bathroom",
+       "Kamar mandi"
+      ],
+      [
+       "Living room",
+       "Ruang tamu"
+      ],
+      [
+       "Garden",
+       "Kebun"
+      ],
+      [
+       "Roof",
+       "Atap"
+      ],
+      [
+       "Floor",
+       "Lantai"
+      ],
+      [
+       "Wall",
+       "Dinding"
+      ],
+      [
+       "Stairs",
+       "Tangga"
+      ],
+      [
+       "Lamp",
+       "Lampu"
+      ]
+     ],
+     "f": [
+      [
+       "I sleep in the ___.",
+       "bedroom",
+       [
+        "bedroom",
+        "kitchen",
+        "garden"
+       ],
+       "Saya tidur di kamar tidur."
+      ],
+      [
+       "My mother cooks in the ___.",
+       "kitchen",
+       [
+        "kitchen",
+        "bathroom",
+        "garden"
+       ],
+       "Ibuku memasak di dapur."
+      ]
+     ],
+     "o": [
+      [
+       "The kitchen is clean",
+       "Dapurnya bersih"
+      ],
+      [
+       "I am in the bathroom",
+       "Saya ada di kamar mandi"
+      ]
+     ]
+    },
+    {
+     "id": "v20",
+     "t": "Sekolah",
+     "note": "Kata homework tidak diberi s: I have a lot of homework. Tidak ada homeworks.",
+     "ph": 0,
+     "v": [
+      [
+       "Classroom",
+       "Ruang kelas"
+      ],
+      [
+       "Lesson",
+       "Pelajaran"
+      ],
+      [
+       "Homework",
+       "Pekerjaan rumah"
+      ],
+      [
+       "Exam",
+       "Ujian"
+      ],
+      [
+       "Pencil",
+       "Pensil"
+      ],
+      [
+       "Notebook",
+       "Buku tulis"
+      ],
+      [
+       "Ruler",
+       "Penggaris"
+      ],
+      [
+       "Eraser",
+       "Penghapus"
+      ],
+      [
+       "Question",
+       "Pertanyaan"
+      ],
+      [
+       "Answer",
+       "Jawaban"
+      ]
+     ],
+     "f": [
+      [
+       "Please open your ___.",
+       "notebook",
+       [
+        "notebook",
+        "exam",
+        "answer"
+       ],
+       "Tolong buka buku tulismu."
+      ],
+      [
+       "I have an English ___ today.",
+       "lesson",
+       [
+        "lesson",
+        "pencil",
+        "ruler"
+       ],
+       "Hari ini saya ada pelajaran bahasa Inggris."
+      ]
+     ],
+     "o": [
+      [
+       "I do my homework",
+       "Saya mengerjakan pekerjaan rumah saya"
+      ],
+      [
+       "The exam is on Monday",
+       "Ujiannya hari Senin"
+      ]
+     ]
+    },
+    {
+     "id": "v21",
+     "t": "Buah dan sayur",
+     "note": "Buah dan sayur yang bisa dihitung diberi s: two apples. Tomato dan potato memakai es: three tomatoes.",
+     "ph": 0,
+     "v": [
+      [
+       "Apple",
+       "Apel"
+      ],
+      [
+       "Banana",
+       "Pisang"
+      ],
+      [
+       "Mango",
+       "Mangga"
+      ],
+      [
+       "Grape",
+       "Anggur"
+      ],
+      [
+       "Strawberry",
+       "Stroberi"
+      ],
+      [
+       "Watermelon",
+       "Semangka"
+      ],
+      [
+       "Potato",
+       "Kentang"
+      ],
+      [
+       "Tomato",
+       "Tomat"
+      ],
+      [
+       "Carrot",
+       "Wortel"
+      ],
+      [
+       "Onion",
+       "Bawang"
+      ],
+      [
+       "Cabbage",
+       "Kol"
+      ],
+      [
+       "Corn",
+       "Jagung"
+      ]
+     ],
+     "f": [
+      [
+       "I want two ___.",
+       "apples",
+       [
+        "apples",
+        "apple",
+        "an apple"
+       ],
+       "Saya mau dua apel."
+      ],
+      [
+       "Monkeys like ___.",
+       "bananas",
+       [
+        "bananas",
+        "onions",
+        "cabbages"
+       ],
+       "Monyet suka pisang."
+      ]
+     ],
+     "o": [
+      [
+       "I like mango",
+       "Saya suka mangga"
+      ],
+      [
+       "She buys three tomatoes",
+       "Dia membeli tiga tomat"
+      ]
+     ]
+    },
+    {
+     "id": "v22",
+     "t": "Waktu dalam sehari",
+     "note": "Pakai in untuk bagian hari: in the morning, in the afternoon, in the evening. Tetapi pakai at untuk night: at night.",
+     "ph": 0,
+     "v": [
+      [
+       "Morning",
+       "Pagi"
+      ],
+      [
+       "Afternoon",
+       "Siang"
+      ],
+      [
+       "Evening",
+       "Petang"
+      ],
+      [
+       "Night",
+       "Malam"
+      ],
+      [
+       "Hour",
+       "Jam (lamanya)"
+      ],
+      [
+       "Minute",
+       "Menit"
+      ],
+      [
+       "Second",
+       "Detik"
+      ],
+      [
+       "Week",
+       "Minggu (pekan)"
+      ],
+      [
+       "Month",
+       "Bulan"
+      ],
+      [
+       "Year",
+       "Tahun"
+      ],
+      [
+       "Weekend",
+       "Akhir pekan"
+      ],
+      [
+       "Birthday",
+       "Ulang tahun"
+      ]
+     ],
+     "f": [
+      [
+       "I drink coffee in the ___.",
+       "morning",
+       [
+        "morning",
+        "night",
+        "year"
+       ],
+       "Saya minum kopi di pagi hari."
+      ],
+      [
+       "We sleep at ___.",
+       "night",
+       [
+        "night",
+        "morning",
+        "afternoon"
+       ],
+       "Kami tidur di malam hari."
+      ]
+     ],
+     "o": [
+      [
+       "I study in the evening",
+       "Saya belajar di petang hari"
+      ],
+      [
+       "The weekend is fun",
+       "Akhir pekan itu menyenangkan"
+      ]
+     ]
     }
    ]
   },
   {
-   "n": "Angka",
+   "n": "A1 Angka",
    "desc": "Berhitung dari 1 sampai 100",
    "lessons": [
     {
@@ -842,6 +1930,10 @@
       [
        "I am twelve years old",
        "Umur saya dua belas tahun"
+      ],
+      [
+       "She has fifteen books",
+       "Dia punya lima belas buku"
       ]
      ]
     },
@@ -851,10 +1943,6 @@
      "note": "Puluhan berakhiran ty: thirty, forty, fifty. Bedakan dengan teen: fifteen (15) dan fifty (50).",
      "ph": 0,
      "v": [
-      [
-       "twenty",
-       "20 (dua puluh)"
-      ],
       [
        "thirty",
        "30 (tiga puluh)"
@@ -904,6 +1992,10 @@
       [
        "I have thirty books",
        "Saya punya tiga puluh buku"
+      ],
+      [
+       "My grandfather is seventy years old",
+       "Kakekku berumur tujuh puluh tahun"
       ]
      ]
     },
@@ -946,18 +2038,357 @@
        "99 (sembilan puluh sembilan)"
       ]
      ],
-     "f": [],
+     "f": [
+      [
+       "I am ___ years old.",
+       "twenty-one",
+       [
+        "twenty-one",
+        "twenty-two",
+        "twelve"
+       ],
+       "Umur saya dua puluh satu tahun."
+      ]
+     ],
      "o": [
       [
        "I am twenty-one years old",
        "Umur saya dua puluh satu tahun"
+      ],
+      [
+       "There are forty-five students",
+       "Ada empat puluh lima pelajar"
+      ]
+     ]
+    },
+    {
+     "id": "n5",
+     "t": "Urutan: pertama sampai kesepuluh",
+     "note": "Angka urutan dipakai untuk tanggal dan peringkat: my birthday is on the fifth of May. Kebanyakan berakhiran th.",
+     "ph": 0,
+     "v": [
+      [
+       "First",
+       "Pertama"
+      ],
+      [
+       "Second",
+       "Kedua"
+      ],
+      [
+       "Third",
+       "Ketiga"
+      ],
+      [
+       "Fourth",
+       "Keempat"
+      ],
+      [
+       "Fifth",
+       "Kelima"
+      ],
+      [
+       "Sixth",
+       "Keenam"
+      ],
+      [
+       "Seventh",
+       "Ketujuh"
+      ],
+      [
+       "Eighth",
+       "Kedelapan"
+      ],
+      [
+       "Ninth",
+       "Kesembilan"
+      ],
+      [
+       "Tenth",
+       "Kesepuluh"
+      ]
+     ],
+     "f": [
+      [
+       "She is in the ___ grade.",
+       "third",
+       [
+        "third",
+        "three",
+        "thirty"
+       ],
+       "Dia di kelas tiga."
+      ],
+      [
+       "Sunday is the ___ day of the week.",
+       "seventh",
+       [
+        "seventh",
+        "seven",
+        "sixth"
+       ],
+       "Minggu adalah hari ketujuh dalam seminggu."
+      ]
+     ],
+     "o": [
+      [
+       "This is my first lesson",
+       "Ini pelajaran pertamaku"
+      ],
+      [
+       "He is the second child",
+       "Dia anak kedua"
+      ]
+     ]
+    },
+    {
+     "id": "n6",
+     "t": "Menyebut jam",
+     "note": "Tanya jam dengan What time is it? Jawab dengan It is + jam: it is seven o'clock. Untuk waktu pagi dan malam pakai in the morning, at night.",
+     "ph": 0,
+     "v": [
+      [
+       "Seven o'clock",
+       "Jam tujuh tepat"
+      ],
+      [
+       "Half past seven",
+       "Jam tujuh lewat tiga puluh menit"
+      ],
+      [
+       "Quarter past seven",
+       "Jam tujuh lewat lima belas menit"
+      ],
+      [
+       "Quarter to eight",
+       "Jam delapan kurang lima belas menit"
+      ],
+      [
+       "Noon",
+       "Tengah hari"
+      ],
+      [
+       "Midnight",
+       "Tengah malam"
+      ],
+      [
+       "Early",
+       "Awal"
+      ],
+      [
+       "Late",
+       "Terlambat"
+      ],
+      [
+       "On time",
+       "Tepat waktu"
+      ],
+      [
+       "What time is it?",
+       "Jam berapa sekarang?"
+      ]
+     ],
+     "f": [
+      [
+       "It is nine ___.",
+       "o'clock",
+       [
+        "o'clock",
+        "clock",
+        "hour"
+       ],
+       "Sekarang jam sembilan tepat."
+      ],
+      [
+       "I am never ___ for school.",
+       "late",
+       [
+        "late",
+        "noon",
+        "midnight"
+       ],
+       "Saya tidak pernah terlambat ke sekolah."
+      ]
+     ],
+     "o": [
+      [
+       "It is seven o'clock",
+       "Sekarang jam tujuh tepat"
+      ],
+      [
+       "I am on time",
+       "Saya tepat waktu"
+      ]
+     ]
+    },
+    {
+     "id": "n7",
+     "t": "Uang dan harga",
+     "note": "Tanya harga dengan How much is it? untuk satu benda dan How much are they? untuk banyak benda.",
+     "ph": 0,
+     "v": [
+      [
+       "Price",
+       "Harga"
+      ],
+      [
+       "Cheap",
+       "Murah"
+      ],
+      [
+       "Expensive",
+       "Mahal"
+      ],
+      [
+       "Money",
+       "Uang"
+      ],
+      [
+       "Cash",
+       "Uang tunai"
+      ],
+      [
+       "Change",
+       "Uang kembalian"
+      ],
+      [
+       "Free",
+       "Gratis"
+      ],
+      [
+       "Pay",
+       "Membayar"
+      ],
+      [
+       "Sell",
+       "Menjual"
+      ],
+      [
+       "Discount",
+       "Diskon"
+      ],
+      [
+       "Receipt",
+       "Struk"
+      ],
+      [
+       "Wallet",
+       "Dompet"
+      ]
+     ],
+     "f": [
+      [
+       "This bag is too ___. I cannot buy it.",
+       "expensive",
+       [
+        "expensive",
+        "cheap",
+        "free"
+       ],
+       "Tas ini terlalu mahal. Saya tidak bisa membelinya."
+      ],
+      [
+       "Can I ___ by card?",
+       "pay",
+       [
+        "pay",
+        "sell",
+        "free"
+       ],
+       "Boleh saya membayar dengan kartu?"
+      ]
+     ],
+     "o": [
+      [
+       "How much is this book",
+       "Berapa harga buku ini"
+      ],
+      [
+       "It is very cheap",
+       "Ini sangat murah"
+      ]
+     ]
+    },
+    {
+     "id": "n8",
+     "t": "Ratusan dan ribuan",
+     "note": "Ratusan: angka + hundred (three hundred). Ribuan: angka + thousand. Hundred dan thousand tidak diberi s setelah angka: three hundred, bukan three hundreds.",
+     "ph": 0,
+     "v": [
+      [
+       "Two hundred",
+       "200 (dua ratus)"
+      ],
+      [
+       "Five hundred",
+       "500 (lima ratus)"
+      ],
+      [
+       "Nine hundred",
+       "900 (sembilan ratus)"
+      ],
+      [
+       "One thousand",
+       "1000 (seribu)"
+      ],
+      [
+       "Two thousand",
+       "2000 (dua ribu)"
+      ],
+      [
+       "Five thousand",
+       "5000 (lima ribu)"
+      ],
+      [
+       "Ten thousand",
+       "10000 (sepuluh ribu)"
+      ],
+      [
+       "One hundred thousand",
+       "100000 (seratus ribu)"
+      ],
+      [
+       "One million",
+       "1000000 (satu juta)"
+      ]
+     ],
+     "f": [
+      [
+       "It costs five ___ rupiah.",
+       "thousand",
+       [
+        "thousand",
+        "thousands",
+        "hundreds"
+       ],
+       "Harganya lima ribu rupiah."
+      ],
+      [
+       "One thousand is ten ___.",
+       "hundred",
+       [
+        "hundred",
+        "hundreds",
+        "million"
+       ],
+       "Seribu sama dengan sepuluh ratus."
+      ]
+     ],
+     "o": [
+      [
+       "It costs two hundred rupiah",
+       "Harganya dua ratus rupiah"
+      ],
+      [
+       "I have one million rupiah",
+       "Saya punya satu juta rupiah"
       ]
      ]
     }
    ]
   },
   {
-   "n": "Percakapan",
+   "n": "A1 Percakapan",
    "desc": "Kalimat siap pakai untuk situasi nyata",
    "lessons": [
     {
@@ -1119,11 +2550,263 @@
      ],
      "f": [],
      "o": []
+    },
+    {
+     "id": "p5",
+     "t": "Meminta tolong dan minta maaf",
+     "note": "Can you ... ? biasa dipakai sehari-hari. Could you ... ? lebih sopan. Tambahkan please untuk lebih sopan lagi.",
+     "ph": 1,
+     "v": [
+      [
+       "Can you help me?",
+       "Bisakah kamu membantu saya?"
+      ],
+      [
+       "Of course.",
+       "Tentu saja."
+      ],
+      [
+       "I am sorry.",
+       "Saya minta maaf."
+      ],
+      [
+       "That is okay.",
+       "Tidak apa-apa."
+      ],
+      [
+       "Excuse me, can I ask something?",
+       "Permisi, boleh saya bertanya?"
+      ],
+      [
+       "Could you repeat that, please?",
+       "Bisakah Anda mengulanginya?"
+      ],
+      [
+       "I do not understand.",
+       "Saya tidak mengerti."
+      ],
+      [
+       "Please speak slowly.",
+       "Tolong bicara pelan-pelan."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "p6",
+     "t": "Di hotel",
+     "note": "Saat meminta sesuatu pakai Can I have ... ? atau I would like ... yang lebih sopan.",
+     "ph": 1,
+     "v": [
+      [
+       "I have a reservation.",
+       "Saya punya reservasi."
+      ],
+      [
+       "What time is check-out?",
+       "Jam berapa waktu check-out?"
+      ],
+      [
+       "Is breakfast included?",
+       "Apakah sudah termasuk sarapan?"
+      ],
+      [
+       "Can I have the key, please?",
+       "Boleh minta kuncinya?"
+      ],
+      [
+       "The room is too hot.",
+       "Kamarnya terlalu panas."
+      ],
+      [
+       "Is there Wi-Fi?",
+       "Apakah ada Wi-Fi?"
+      ],
+      [
+       "Can I get a towel?",
+       "Boleh saya minta handuk?"
+      ],
+      [
+       "I would like to stay two nights.",
+       "Saya ingin menginap dua malam."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "p7",
+     "t": "Di dokter dan apotek",
+     "note": "Untuk keluhan sakit pakai I have a ... : I have a headache, I have a fever.",
+     "ph": 1,
+     "v": [
+      [
+       "I do not feel well.",
+       "Saya merasa tidak enak badan."
+      ],
+      [
+       "I have a headache.",
+       "Saya sakit kepala."
+      ],
+      [
+       "I have a fever.",
+       "Saya demam."
+      ],
+      [
+       "My stomach hurts.",
+       "Perut saya sakit."
+      ],
+      [
+       "Where does it hurt?",
+       "Bagian mana yang sakit?"
+      ],
+      [
+       "Take this medicine twice a day.",
+       "Minum obat ini dua kali sehari."
+      ],
+      [
+       "You need to rest.",
+       "Kamu perlu istirahat."
+      ],
+      [
+       "Do you have a pharmacy near here?",
+       "Apakah ada apotek dekat sini?"
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "p8",
+     "t": "Naik transportasi",
+     "note": "Mulai pertanyaanmu dengan Where, Which, atau What time agar jawabannya jelas.",
+     "ph": 1,
+     "v": [
+      [
+       "Where is the bus stop?",
+       "Di mana halte bus?"
+      ],
+      [
+       "Which bus goes to the airport?",
+       "Bus mana yang ke bandara?"
+      ],
+      [
+       "One ticket to the station, please.",
+       "Satu tiket ke stasiun, tolong."
+      ],
+      [
+       "How much is the fare?",
+       "Berapa tarifnya?"
+      ],
+      [
+       "What time does the train leave?",
+       "Jam berapa kereta berangkat?"
+      ],
+      [
+       "Is this seat free?",
+       "Apakah kursi ini kosong?"
+      ],
+      [
+       "Please stop here.",
+       "Tolong berhenti di sini."
+      ],
+      [
+       "I am lost.",
+       "Saya tersesat."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "p9",
+     "t": "Berbicara tentang hobi",
+     "note": "Setelah like dan enjoy, kata kerja diberi ing: I like reading, I enjoy playing.",
+     "ph": 1,
+     "v": [
+      [
+       "What do you do in your free time?",
+       "Apa yang kamu lakukan di waktu luang?"
+      ],
+      [
+       "I like reading books.",
+       "Saya suka membaca buku."
+      ],
+      [
+       "I enjoy playing football.",
+       "Saya senang bermain sepak bola."
+      ],
+      [
+       "Do you like music?",
+       "Apakah kamu suka musik?"
+      ],
+      [
+       "My hobby is cooking.",
+       "Hobi saya memasak."
+      ],
+      [
+       "I go swimming on Sundays.",
+       "Saya berenang setiap hari Minggu."
+      ],
+      [
+       "Me too.",
+       "Saya juga."
+      ],
+      [
+       "That sounds fun.",
+       "Kedengarannya menyenangkan."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "p10",
+     "t": "Berbicara di telepon",
+     "note": "Di telepon, perkenalkan diri dengan this is: this is Rina. Jangan pakai I am Rina.",
+     "ph": 1,
+     "v": [
+      [
+       "Hello, this is Rina.",
+       "Halo, ini Rina."
+      ],
+      [
+       "Who is calling, please?",
+       "Dengan siapa ini?"
+      ],
+      [
+       "Can I speak to Budi?",
+       "Boleh saya bicara dengan Budi?"
+      ],
+      [
+       "Please hold on.",
+       "Tolong tunggu sebentar."
+      ],
+      [
+       "He is not here now.",
+       "Dia tidak ada sekarang."
+      ],
+      [
+       "Can I leave a message?",
+       "Boleh saya titip pesan?"
+      ],
+      [
+       "I will call you back.",
+       "Saya akan menelepon balik."
+      ],
+      [
+       "Thank you for calling.",
+       "Terima kasih sudah menelepon."
+      ]
+     ],
+     "f": [],
+     "o": []
     }
    ]
   },
   {
-   "n": "Tata bahasa",
+   "n": "A1 Tata bahasa",
    "desc": "Aturan dasar, dijelaskan singkat",
    "lessons": [
     {
@@ -1461,6 +3144,5612 @@
       [
        "She does not work",
        "Dia tidak bekerja"
+      ]
+     ]
+    },
+    {
+     "id": "g6",
+     "t": "Kata milik: my, your, his, her",
+     "note": "Kata milik diletakkan sebelum benda: my book, her bag. His untuk laki-laki, her untuk perempuan, dan its untuk benda atau hewan.",
+     "ph": 0,
+     "v": [
+      [
+       "my book",
+       "bukuku"
+      ],
+      [
+       "your bag",
+       "tasmu"
+      ],
+      [
+       "his phone",
+       "ponselnya (laki-laki)"
+      ],
+      [
+       "her phone",
+       "ponselnya (perempuan)"
+      ],
+      [
+       "our house",
+       "rumah kami"
+      ],
+      [
+       "their car",
+       "mobil mereka"
+      ],
+      [
+       "its tail",
+       "ekornya"
+      ]
+     ],
+     "f": [
+      [
+       "This is Sari. ___ bag is red.",
+       "Her",
+       [
+        "Her",
+        "His",
+        "My"
+       ],
+       "Ini Sari. Tasnya merah."
+      ],
+      [
+       "I love ___ mother.",
+       "my",
+       [
+        "my",
+        "your",
+        "her"
+       ],
+       "Saya sayang ibu saya."
+      ]
+     ],
+     "o": [
+      [
+       "This is her book",
+       "Ini bukunya"
+      ],
+      [
+       "Our house is big",
+       "Rumah kami besar"
+      ]
+     ]
+    },
+    {
+     "id": "g7",
+     "t": "This, that, these, those",
+     "note": "This dan that untuk satu benda. These dan those untuk banyak benda. This dan these untuk yang dekat, that dan those untuk yang jauh.",
+     "ph": 0,
+     "v": [
+      [
+       "This",
+       "Ini (satu benda dekat)"
+      ],
+      [
+       "That",
+       "Itu (satu benda jauh)"
+      ],
+      [
+       "These",
+       "Ini (banyak benda dekat)"
+      ],
+      [
+       "Those",
+       "Itu (banyak benda jauh)"
+      ],
+      [
+       "Here",
+       "Di sini"
+      ],
+      [
+       "There",
+       "Di sana"
+      ]
+     ],
+     "f": [
+      [
+       "___ are my shoes.",
+       "These",
+       [
+        "These",
+        "This",
+        "That"
+       ],
+       "Ini sepatuku."
+      ],
+      [
+       "___ is my pen.",
+       "This",
+       [
+        "This",
+        "These",
+        "Those"
+       ],
+       "Ini pulpenku."
+      ]
+     ],
+     "o": [
+      [
+       "These are my books",
+       "Ini buku-bukuku"
+      ],
+      [
+       "That is a big house",
+       "Itu rumah yang besar"
+      ]
+     ]
+    },
+    {
+     "id": "g8",
+     "t": "Bentuk jamak",
+     "note": "Kebanyakan kata benda ditambah s: books. Akhiran x, ch, sh, dan s ditambah es: boxes. Akhiran y setelah huruf mati menjadi ies: babies. Ada juga yang tidak beraturan: man menjadi men.",
+     "ph": 0,
+     "v": [
+      [
+       "book / books",
+       "Buku (satu / banyak)"
+      ],
+      [
+       "box / boxes",
+       "Kotak (satu / banyak)"
+      ],
+      [
+       "baby / babies",
+       "Bayi (satu / banyak)"
+      ],
+      [
+       "man / men",
+       "Laki-laki (satu / banyak)"
+      ],
+      [
+       "woman / women",
+       "Perempuan (satu / banyak)"
+      ],
+      [
+       "child / children",
+       "Anak (satu / banyak)"
+      ],
+      [
+       "foot / feet",
+       "Telapak kaki (satu / banyak)"
+      ],
+      [
+       "tooth / teeth",
+       "Gigi (satu / banyak)"
+      ]
+     ],
+     "f": [
+      [
+       "I have two ___.",
+       "boxes",
+       [
+        "boxes",
+        "boxs",
+        "box"
+       ],
+       "Saya punya dua kotak."
+      ],
+      [
+       "There are three ___ in the room.",
+       "children",
+       [
+        "children",
+        "childs",
+        "child"
+       ],
+       "Ada tiga anak di dalam ruangan."
+      ]
+     ],
+     "o": [
+      [
+       "I see two babies",
+       "Saya melihat dua bayi"
+      ],
+      [
+       "The men are tall",
+       "Para laki-laki itu tinggi"
+      ]
+     ]
+    },
+    {
+     "id": "g9",
+     "t": "There is dan there are",
+     "note": "There is untuk satu benda, there are untuk banyak benda: there is a book on the table, there are two books on the table.",
+     "ph": 0,
+     "v": [
+      [
+       "There is",
+       "Ada (satu benda)"
+      ],
+      [
+       "There are",
+       "Ada (banyak benda)"
+      ],
+      [
+       "There is not",
+       "Tidak ada (satu benda)"
+      ],
+      [
+       "There are not",
+       "Tidak ada (banyak benda)"
+      ],
+      [
+       "Is there?",
+       "Apakah ada (satu benda)?"
+      ],
+      [
+       "Are there?",
+       "Apakah ada (banyak benda)?"
+      ]
+     ],
+     "f": [
+      [
+       "There ___ a cat in the garden.",
+       "is",
+       [
+        "is",
+        "are",
+        "am"
+       ],
+       "Ada seekor kucing di kebun."
+      ],
+      [
+       "There ___ three apples.",
+       "are",
+       [
+        "are",
+        "is",
+        "am"
+       ],
+       "Ada tiga apel."
+      ]
+     ],
+     "o": [
+      [
+       "There is a book on the table",
+       "Ada sebuah buku di atas meja"
+      ],
+      [
+       "There are two cats in the garden",
+       "Ada dua kucing di kebun"
+      ]
+     ]
+    },
+    {
+     "id": "g10",
+     "t": "Can: bisa dan tidak bisa",
+     "note": "Setelah can dan cannot, kata kerja tidak berubah, bahkan untuk he dan she: she can swim, bukan she can swims.",
+     "ph": 0,
+     "v": [
+      [
+       "Can",
+       "Bisa"
+      ],
+      [
+       "Cannot",
+       "Tidak bisa"
+      ],
+      [
+       "Can I?",
+       "Bolehkah saya?"
+      ],
+      [
+       "Can you?",
+       "Bisakah kamu?"
+      ],
+      [
+       "I can swim",
+       "Saya bisa berenang"
+      ],
+      [
+       "She cannot drive",
+       "Dia tidak bisa menyetir"
+      ]
+     ],
+     "f": [
+      [
+       "She can ___ very well.",
+       "swim",
+       [
+        "swim",
+        "swims",
+        "swimming"
+       ],
+       "Dia bisa berenang dengan sangat baik."
+      ],
+      [
+       "I ___ drive a car. I am too young.",
+       "cannot",
+       [
+        "cannot",
+        "can",
+        "am"
+       ],
+       "Saya tidak bisa menyetir mobil. Saya masih terlalu muda."
+      ]
+     ],
+     "o": [
+      [
+       "I can speak English",
+       "Saya bisa berbicara bahasa Inggris"
+      ],
+      [
+       "He cannot swim",
+       "Dia tidak bisa berenang"
+      ]
+     ]
+    },
+    {
+     "id": "g11",
+     "t": "Sedang melakukan: present continuous",
+     "note": "Untuk kegiatan yang sedang terjadi sekarang pakai am, is, atau are + kata kerja berakhiran ing: I am studying now.",
+     "ph": 0,
+     "v": [
+      [
+       "I am eating",
+       "Saya sedang makan"
+      ],
+      [
+       "You are reading",
+       "Kamu sedang membaca"
+      ],
+      [
+       "He is sleeping",
+       "Dia (laki-laki) sedang tidur"
+      ],
+      [
+       "She is cooking",
+       "Dia (perempuan) sedang memasak"
+      ],
+      [
+       "We are playing",
+       "Kami sedang bermain"
+      ],
+      [
+       "They are working",
+       "Mereka sedang bekerja"
+      ]
+     ],
+     "f": [
+      [
+       "She is ___ a book now.",
+       "reading",
+       [
+        "reading",
+        "reads",
+        "read"
+       ],
+       "Dia sedang membaca buku sekarang."
+      ],
+      [
+       "They ___ playing football.",
+       "are",
+       [
+        "are",
+        "is",
+        "am"
+       ],
+       "Mereka sedang bermain sepak bola."
+      ]
+     ],
+     "o": [
+      [
+       "I am studying English",
+       "Saya sedang belajar bahasa Inggris"
+      ],
+      [
+       "The baby is sleeping",
+       "Bayi itu sedang tidur"
+      ]
+     ]
+    },
+    {
+     "id": "g12",
+     "t": "Kata depan tempat",
+     "note": "In untuk di dalam sesuatu, on untuk di atas permukaan, dan at untuk titik atau tempat tertentu: at school, in the box, on the table.",
+     "ph": 0,
+     "v": [
+      [
+       "In",
+       "Di dalam"
+      ],
+      [
+       "On",
+       "Di atas (menempel)"
+      ],
+      [
+       "At",
+       "Di (titik tertentu)"
+      ],
+      [
+       "Under",
+       "Di bawah"
+      ],
+      [
+       "Next to",
+       "Di sebelah"
+      ],
+      [
+       "Behind",
+       "Di belakang"
+      ],
+      [
+       "In front of",
+       "Di depan"
+      ],
+      [
+       "Between",
+       "Di antara"
+      ]
+     ],
+     "f": [
+      [
+       "The book is ___ the table.",
+       "on",
+       [
+        "on",
+        "in",
+        "at"
+       ],
+       "Buku itu ada di atas meja."
+      ],
+      [
+       "I am ___ school.",
+       "at",
+       [
+        "at",
+        "on",
+        "under"
+       ],
+       "Saya ada di sekolah."
+      ]
+     ],
+     "o": [
+      [
+       "The cat is under the chair",
+       "Kucing itu ada di bawah kursi"
+      ],
+      [
+       "I sit next to Rina",
+       "Saya duduk di sebelah Rina"
+      ]
+     ]
+    },
+    {
+     "id": "g13",
+     "t": "Kata tanya",
+     "note": "Kata tanya diletakkan di awal kalimat: Where do you live? Dengan is atau are: Where is the bank?",
+     "ph": 0,
+     "v": [
+      [
+       "What",
+       "Apa"
+      ],
+      [
+       "Where",
+       "Di mana"
+      ],
+      [
+       "Who",
+       "Siapa"
+      ],
+      [
+       "When",
+       "Kapan"
+      ],
+      [
+       "Why",
+       "Mengapa"
+      ],
+      [
+       "How",
+       "Bagaimana"
+      ],
+      [
+       "Which",
+       "Yang mana"
+      ],
+      [
+       "Whose",
+       "Milik siapa"
+      ]
+     ],
+     "f": [
+      [
+       "___ is your name?",
+       "What",
+       [
+        "What",
+        "Where",
+        "Who"
+       ],
+       "Siapa namamu?"
+      ],
+      [
+       "___ do you live?",
+       "Where",
+       [
+        "Where",
+        "Who",
+        "Why"
+       ],
+       "Di mana kamu tinggal?"
+      ]
+     ],
+     "o": [
+      [
+       "Where do you live",
+       "Di mana kamu tinggal"
+      ],
+      [
+       "Why are you sad",
+       "Mengapa kamu sedih"
+      ]
+     ]
+    },
+    {
+     "id": "g14",
+     "t": "Masa lampau: was dan were",
+     "note": "Was dan were adalah bentuk lampau dari am, is, dan are. Was untuk I, he, she, it. Were untuk you, we, dan they: I was tired yesterday.",
+     "ph": 0,
+     "v": [
+      [
+       "I was",
+       "Saya dulu adalah"
+      ],
+      [
+       "You were",
+       "Kamu dulu adalah"
+      ],
+      [
+       "He was",
+       "Dia (laki-laki) dulu adalah"
+      ],
+      [
+       "She was",
+       "Dia (perempuan) dulu adalah"
+      ],
+      [
+       "We were",
+       "Kami dulu adalah"
+      ],
+      [
+       "They were",
+       "Mereka dulu adalah"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ at home yesterday.",
+       "was",
+       [
+        "was",
+        "were",
+        "am"
+       ],
+       "Kemarin saya ada di rumah."
+      ],
+      [
+       "They ___ happy last night.",
+       "were",
+       [
+        "were",
+        "was",
+        "are"
+       ],
+       "Mereka senang tadi malam."
+      ]
+     ],
+     "o": [
+      [
+       "She was my teacher",
+       "Dia dulu guruku"
+      ],
+      [
+       "We were in Bandung",
+       "Kami dulu di Bandung"
+      ]
+     ]
+    },
+    {
+     "id": "g15",
+     "t": "Seberapa sering: always sampai never",
+     "note": "Kata ini diletakkan sebelum kata kerja utama: I always drink tea. Tetapi setelah am, is, dan are: she is never late.",
+     "ph": 0,
+     "v": [
+      [
+       "Always",
+       "Selalu"
+      ],
+      [
+       "Usually",
+       "Biasanya"
+      ],
+      [
+       "Often",
+       "Sering"
+      ],
+      [
+       "Sometimes",
+       "Kadang-kadang"
+      ],
+      [
+       "Rarely",
+       "Jarang"
+      ],
+      [
+       "Never",
+       "Tidak pernah"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ eat breakfast. It is my habit every day.",
+       "always",
+       [
+        "always",
+        "never",
+        "rarely"
+       ],
+       "Saya selalu sarapan. Itu kebiasaan setiap hari."
+      ],
+      [
+       "He is ___ late. He always comes on time.",
+       "never",
+       [
+        "never",
+        "always",
+        "often"
+       ],
+       "Dia tidak pernah terlambat. Dia selalu datang tepat waktu."
+      ]
+     ],
+     "o": [
+      [
+       "I always drink tea",
+       "Saya selalu minum teh"
+      ],
+      [
+       "She never eats meat",
+       "Dia tidak pernah makan daging"
+      ]
+     ]
+    },
+    {
+     "id": "g16",
+     "t": "Kata ganti objek: me, him, her",
+     "note": "Setelah kata kerja, pakai kata ganti objek: me, you, him, her, it, us, them. Contoh: I know him, she helps us.",
+     "ph": 0,
+     "v": [
+      [
+       "She likes me",
+       "Dia menyukai saya"
+      ],
+      [
+       "I know him",
+       "Saya mengenal dia (laki-laki)"
+      ],
+      [
+       "I see her",
+       "Saya melihat dia (perempuan)"
+      ],
+      [
+       "He helps us",
+       "Dia membantu kami"
+      ],
+      [
+       "We call them",
+       "Kami menelepon mereka"
+      ],
+      [
+       "I like it",
+       "Saya suka itu"
+      ]
+     ],
+     "f": [
+      [
+       "Rina is my friend. I like ___.",
+       "her",
+       [
+        "her",
+        "she",
+        "his"
+       ],
+       "Rina temanku. Saya menyukainya."
+      ],
+      [
+       "My parents are kind. I love ___.",
+       "them",
+       [
+        "them",
+        "they",
+        "their"
+       ],
+       "Orang tuaku baik. Saya menyayangi mereka."
+      ]
+     ],
+     "o": [
+      [
+       "Please help me",
+       "Tolong bantu saya"
+      ],
+      [
+       "I know them",
+       "Saya mengenal mereka"
+      ]
+     ]
+    },
+    {
+     "id": "g17",
+     "t": "Perintah dan larangan",
+     "note": "Kalimat perintah memakai kata kerja dasar tanpa subjek: open the door. Larangan memakai do not di depan kata kerja: do not run.",
+     "ph": 0,
+     "v": [
+      [
+       "Open the door",
+       "Buka pintunya"
+      ],
+      [
+       "Close the window",
+       "Tutup jendelanya"
+      ],
+      [
+       "Sit down",
+       "Duduklah"
+      ],
+      [
+       "Do not run",
+       "Jangan berlari"
+      ],
+      [
+       "Do not be late",
+       "Jangan terlambat"
+      ],
+      [
+       "Be quiet",
+       "Diamlah"
+      ],
+      [
+       "Please wait",
+       "Tolong tunggu"
+      ],
+      [
+       "Come here",
+       "Kemarilah"
+      ]
+     ],
+     "f": [
+      [
+       "___ run in the classroom.",
+       "Do not",
+       [
+        "Do not",
+        "Not do",
+        "Are not"
+       ],
+       "Jangan berlari di dalam kelas."
+      ],
+      [
+       "___ the door, please.",
+       "Open",
+       [
+        "Open",
+        "Opens",
+        "Opening"
+       ],
+       "Tolong buka pintunya."
+      ]
+     ],
+     "o": [
+      [
+       "Do not be late",
+       "Jangan terlambat"
+      ],
+      [
+       "Please sit down",
+       "Tolong duduklah"
+      ]
+     ]
+    },
+    {
+     "id": "g18",
+     "t": "Kepunyaan: ’s",
+     "note": "Untuk menunjukkan kepemilikan, tambahkan ’s setelah pemilik: Rina’s bag. Untuk jamak berakhiran s cukup tambahkan ’: my parents’ house.",
+     "ph": 0,
+     "v": [
+      [
+       "Rina’s bag",
+       "Tas Rina"
+      ],
+      [
+       "my brother’s room",
+       "Kamar saudara laki-lakiku"
+      ],
+      [
+       "the dog’s tail",
+       "Ekor anjing itu"
+      ],
+      [
+       "Budi’s father",
+       "Ayah Budi"
+      ],
+      [
+       "my parents’ house",
+       "Rumah orang tuaku"
+      ],
+      [
+       "the children’s toys",
+       "Mainan anak-anak"
+      ]
+     ],
+     "f": [
+      [
+       "This is ___ book.",
+       "Rina’s",
+       [
+        "Rina’s",
+        "Rina",
+        "Rinas"
+       ],
+       "Ini buku Rina."
+      ],
+      [
+       "The ___ tail is long.",
+       "dog’s",
+       [
+        "dog’s",
+        "dogs",
+        "dogs’"
+       ],
+       "Ekor anjing itu panjang."
+      ]
+     ],
+     "o": [
+      [
+       "This is Budi’s bag",
+       "Ini tas Budi"
+      ],
+      [
+       "My mother’s name is Sari",
+       "Nama ibuku Sari"
+      ]
+     ]
+    },
+    {
+     "id": "g19",
+     "t": "A, an, dan the",
+     "note": "Pakai a atau an untuk hal yang baru disebut, dan the untuk hal yang sudah jelas: I have a dog. The dog is big.",
+     "ph": 0,
+     "v": [
+      [
+       "a cat",
+       "seekor kucing (baru disebut)"
+      ],
+      [
+       "the cat",
+       "kucing itu (sudah jelas)"
+      ],
+      [
+       "a house",
+       "sebuah rumah"
+      ],
+      [
+       "the house",
+       "rumah itu"
+      ],
+      [
+       "an hour",
+       "satu jam"
+      ],
+      [
+       "the moon",
+       "bulan"
+      ]
+     ],
+     "f": [
+      [
+       "I see a cat. ___ cat is black.",
+       "The",
+       [
+        "The",
+        "A",
+        "An"
+       ],
+       "Saya melihat seekor kucing. Kucing itu hitam."
+      ],
+      [
+       "___ sun is hot today.",
+       "The",
+       [
+        "The",
+        "A",
+        "An"
+       ],
+       "Matahari panas hari ini."
+      ]
+     ],
+     "o": [
+      [
+       "I have a car",
+       "Saya punya sebuah mobil"
+      ],
+      [
+       "The car is blue",
+       "Mobil itu biru"
+      ]
+     ]
+    },
+    {
+     "id": "g20",
+     "t": "Some dan any",
+     "note": "Pakai some dalam kalimat positif, dan any dalam kalimat negatif dan pertanyaan: I have some bread. I do not have any milk.",
+     "ph": 0,
+     "v": [
+      [
+       "some",
+       "beberapa atau sedikit"
+      ],
+      [
+       "any",
+       "sama sekali (negatif dan tanya)"
+      ],
+      [
+       "I have some bread",
+       "Saya punya sedikit roti"
+      ],
+      [
+       "I do not have any milk",
+       "Saya tidak punya susu sama sekali"
+      ],
+      [
+       "Do you have any water?",
+       "Apakah kamu punya air?"
+      ],
+      [
+       "There are some apples",
+       "Ada beberapa apel"
+      ]
+     ],
+     "f": [
+      [
+       "I have ___ rice.",
+       "some",
+       [
+        "some",
+        "any",
+        "a"
+       ],
+       "Saya punya sedikit nasi."
+      ],
+      [
+       "We do not have ___ eggs.",
+       "any",
+       [
+        "any",
+        "some",
+        "an"
+       ],
+       "Kami tidak punya telur sama sekali."
+      ]
+     ],
+     "o": [
+      [
+       "I want some water",
+       "Saya mau sedikit air"
+      ],
+      [
+       "Do you have any bread",
+       "Apakah kamu punya roti"
+      ]
+     ]
+    },
+    {
+     "id": "g21",
+     "t": "Penghubung: and, but, because, so",
+     "note": "And menambah, but menunjukkan pertentangan, because memberi alasan, dan so menunjukkan akibat: I am tired, so I sleep.",
+     "ph": 0,
+     "v": [
+      [
+       "and",
+       "dan"
+      ],
+      [
+       "but",
+       "tetapi"
+      ],
+      [
+       "because",
+       "karena"
+      ],
+      [
+       "so",
+       "jadi"
+      ],
+      [
+       "or",
+       "atau"
+      ],
+      [
+       "I eat rice and fish",
+       "Saya makan nasi dan ikan"
+      ]
+     ],
+     "f": [
+      [
+       "I like tea ___ I do not like coffee.",
+       "but",
+       [
+        "but",
+        "and",
+        "because"
+       ],
+       "Saya suka teh tetapi tidak suka kopi."
+      ],
+      [
+       "I stay home ___ it is raining.",
+       "because",
+       [
+        "because",
+        "but",
+        "so"
+       ],
+       "Saya di rumah karena sedang hujan."
+      ]
+     ],
+     "o": [
+      [
+       "I am hungry so I eat",
+       "Saya lapar jadi saya makan"
+      ],
+      [
+       "She is tired but she works",
+       "Dia lelah tetapi dia bekerja"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": "A2 Makanan dan belanja",
+   "desc": "Makanan, memasak, memesan di restoran, dan berbelanja",
+   "lessons": [
+    {
+     "id": "a2f1",
+     "t": "Bahan makanan",
+     "note": "Beberapa makanan tidak bisa dihitung: rice, meat, cheese, sugar. Tidak ada a atau s di depannya: some rice, bukan a rice.",
+     "ph": 0,
+     "v": [
+      [
+       "Meat",
+       "Daging"
+      ],
+      [
+       "Beef",
+       "Daging sapi"
+      ],
+      [
+       "Pork",
+       "Daging babi"
+      ],
+      [
+       "Soup",
+       "Sup"
+      ],
+      [
+       "Noodles",
+       "Mi"
+      ],
+      [
+       "Sandwich",
+       "Roti lapis"
+      ],
+      [
+       "Cheese",
+       "Keju"
+      ],
+      [
+       "Butter",
+       "Mentega"
+      ],
+      [
+       "Sugar",
+       "Gula"
+      ],
+      [
+       "Salt",
+       "Garam"
+      ],
+      [
+       "Pepper",
+       "Merica"
+      ],
+      [
+       "Oil",
+       "Minyak"
+      ]
+     ],
+     "f": [
+      [
+       "I put some ___ in my tea.",
+       "sugar",
+       [
+        "sugar",
+        "salt",
+        "pepper"
+       ],
+       "Saya menaruh gula di tehku."
+      ],
+      [
+       "The soup needs more flavor. Please pass the ___.",
+       "salt",
+       [
+        "salt",
+        "oil",
+        "butter"
+       ],
+       "Supnya kurang rasa. Tolong berikan garamnya."
+      ]
+     ],
+     "o": [
+      [
+       "I like noodle soup",
+       "Saya suka sup mi"
+      ],
+      [
+       "She puts butter on bread",
+       "Dia mengoles mentega di roti"
+      ]
+     ]
+    },
+    {
+     "id": "a2f2",
+     "t": "Minuman, camilan, dan rasa",
+     "note": "Rasa makanan memakai kata sifat setelah is atau tastes: the soup is spicy, the lemon tastes sour.",
+     "ph": 0,
+     "v": [
+      [
+       "Juice",
+       "Jus"
+      ],
+      [
+       "Soda",
+       "Soda"
+      ],
+      [
+       "Lemonade",
+       "Air lemon"
+      ],
+      [
+       "Ice",
+       "Es"
+      ],
+      [
+       "Cake",
+       "Kue"
+      ],
+      [
+       "Ice cream",
+       "Es krim"
+      ],
+      [
+       "Chocolate",
+       "Cokelat"
+      ],
+      [
+       "Cookie",
+       "Biskuit"
+      ],
+      [
+       "Candy",
+       "Permen"
+      ],
+      [
+       "Snack",
+       "Camilan"
+      ],
+      [
+       "Sweet",
+       "Manis"
+      ],
+      [
+       "Sour",
+       "Asam"
+      ],
+      [
+       "Spicy",
+       "Pedas"
+      ],
+      [
+       "Bitter",
+       "Pahit"
+      ]
+     ],
+     "f": [
+      [
+       "This food is very ___. I need water.",
+       "spicy",
+       [
+        "spicy",
+        "sweet",
+        "cold"
+       ],
+       "Makanan ini sangat pedas. Saya butuh air."
+      ],
+      [
+       "I want a piece of ___.",
+       "cake",
+       [
+        "cake",
+        "juice",
+        "ice"
+       ],
+       "Saya mau sepotong kue."
+      ]
+     ],
+     "o": [
+      [
+       "The cake is too sweet",
+       "Kuenya terlalu manis"
+      ],
+      [
+       "I do not like spicy food",
+       "Saya tidak suka makanan pedas"
+      ]
+     ]
+    },
+    {
+     "id": "a2f3",
+     "t": "Memasak",
+     "note": "Dalam resep, kata kerja dipakai sebagai perintah: first, cut the onion. Then, fry it.",
+     "ph": 0,
+     "v": [
+      [
+       "Cook",
+       "Memasak"
+      ],
+      [
+       "Boil",
+       "Merebus"
+      ],
+      [
+       "Fry",
+       "Menggoreng"
+      ],
+      [
+       "Bake",
+       "Memanggang di oven"
+      ],
+      [
+       "Cut",
+       "Memotong"
+      ],
+      [
+       "Mix",
+       "Mengaduk"
+      ],
+      [
+       "Pour",
+       "Menuang"
+      ],
+      [
+       "Add",
+       "Menambahkan"
+      ],
+      [
+       "Peel",
+       "Mengupas"
+      ],
+      [
+       "Taste",
+       "Mencicipi"
+      ],
+      [
+       "Recipe",
+       "Resep"
+      ],
+      [
+       "Ingredient",
+       "Bahan"
+      ],
+      [
+       "Frying pan",
+       "Wajan"
+      ]
+     ],
+     "f": [
+      [
+       "First, ___ the potatoes with a knife.",
+       "peel",
+       [
+        "peel",
+        "pour",
+        "taste"
+       ],
+       "Pertama, kupas kentangnya dengan pisau."
+      ],
+      [
+       "___ the water, then add the noodles.",
+       "Boil",
+       [
+        "Boil",
+        "Bake",
+        "Taste"
+       ],
+       "Rebus airnya, lalu tambahkan mi."
+      ]
+     ],
+     "o": [
+      [
+       "First cut the onion",
+       "Pertama potong bawangnya"
+      ],
+      [
+       "Add some salt",
+       "Tambahkan sedikit garam"
+      ]
+     ]
+    },
+    {
+     "id": "a2f4",
+     "t": "Memesan di restoran",
+     "note": "I would like lebih sopan daripada I want saat memesan. Tambahkan please di akhir permintaan.",
+     "ph": 1,
+     "v": [
+      [
+       "Can I see the menu, please?",
+       "Boleh saya lihat menunya?"
+      ],
+      [
+       "I would like the chicken soup.",
+       "Saya mau sup ayam."
+      ],
+      [
+       "What is today’s special?",
+       "Apa menu spesial hari ini?"
+      ],
+      [
+       "Is it spicy?",
+       "Apakah ini pedas?"
+      ],
+      [
+       "I am allergic to nuts.",
+       "Saya alergi kacang."
+      ],
+      [
+       "Can we have the bill, please?",
+       "Boleh minta tagihannya?"
+      ],
+      [
+       "Is service included?",
+       "Apakah sudah termasuk biaya layanan?"
+      ],
+      [
+       "Everything was delicious.",
+       "Semuanya enak."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "a2s1",
+     "t": "Toko dan barang belanjaan",
+     "note": "Pakai at untuk toko: I am at the supermarket. Pakai buy untuk membeli: I buy bread at the bakery.",
+     "ph": 0,
+     "v": [
+      [
+       "Supermarket",
+       "Supermarket"
+      ],
+      [
+       "Bakery",
+       "Toko roti"
+      ],
+      [
+       "Pharmacy",
+       "Apotek"
+      ],
+      [
+       "Bookstore",
+       "Toko buku"
+      ],
+      [
+       "Mall",
+       "Pusat perbelanjaan"
+      ],
+      [
+       "Basket",
+       "Keranjang"
+      ],
+      [
+       "Cart",
+       "Troli"
+      ],
+      [
+       "Cashier",
+       "Kasir"
+      ],
+      [
+       "Customer",
+       "Pelanggan"
+      ],
+      [
+       "Sale",
+       "Obral"
+      ],
+      [
+       "Size",
+       "Ukuran"
+      ],
+      [
+       "Brand",
+       "Merek"
+      ]
+     ],
+     "f": [
+      [
+       "I buy bread at the ___.",
+       "bakery",
+       [
+        "bakery",
+        "pharmacy",
+        "bookstore"
+       ],
+       "Saya membeli roti di toko roti."
+      ],
+      [
+       "The ___ takes my money at the shop.",
+       "cashier",
+       [
+        "cashier",
+        "basket",
+        "sale"
+       ],
+       "Kasir menerima uang saya di toko."
+      ]
+     ],
+     "o": [
+      [
+       "I go to the mall on Saturday",
+       "Saya pergi ke pusat perbelanjaan hari Sabtu"
+      ],
+      [
+       "The cashier is very kind",
+       "Kasirnya sangat ramah"
+      ]
+     ]
+    },
+    {
+     "id": "a2s2",
+     "t": "Pakaian dan perlengkapan",
+     "note": "Jeans, shorts, gloves, boots, dan sandals berbentuk jamak. Untuk menyebut satu, pakai a pair of: a pair of jeans.",
+     "ph": 0,
+     "v": [
+      [
+       "Sweater",
+       "Sweter"
+      ],
+      [
+       "Coat",
+       "Mantel"
+      ],
+      [
+       "Jeans",
+       "Celana jins"
+      ],
+      [
+       "Shorts",
+       "Celana pendek"
+      ],
+      [
+       "T-shirt",
+       "Kaus"
+      ],
+      [
+       "Uniform",
+       "Seragam"
+      ],
+      [
+       "Belt",
+       "Ikat pinggang"
+      ],
+      [
+       "Scarf",
+       "Syal"
+      ],
+      [
+       "Gloves",
+       "Sarung tangan"
+      ],
+      [
+       "Boots",
+       "Sepatu bot"
+      ],
+      [
+       "Sandals",
+       "Sandal"
+      ],
+      [
+       "Pocket",
+       "Saku"
+      ]
+     ],
+     "f": [
+      [
+       "I wear a ___ when it is cold.",
+       "coat",
+       [
+        "coat",
+        "shorts",
+        "sandals"
+       ],
+       "Saya memakai mantel saat dingin."
+      ],
+      [
+       "These ___ are too small for me.",
+       "boots",
+       [
+        "boots",
+        "coat",
+        "belt"
+       ],
+       "Sepatu bot ini terlalu kecil untuk saya."
+      ]
+     ],
+     "o": [
+      [
+       "I need a pair of jeans",
+       "Saya butuh sepasang celana jins"
+      ],
+      [
+       "The coat has two pockets",
+       "Mantel itu punya dua saku"
+      ]
+     ]
+    },
+    {
+     "id": "a2s3",
+     "t": "Ukuran dan kenyamanan",
+     "note": "Kata sifat tidak berubah bentuk walau bendanya jamak: a long dress, long dresses.",
+     "ph": 0,
+     "v": [
+      [
+       "Light",
+       "Muda (warna)"
+      ],
+      [
+       "Dark",
+       "Tua (warna)"
+      ],
+      [
+       "Silver",
+       "Perak"
+      ],
+      [
+       "Gold",
+       "Emas"
+      ],
+      [
+       "Purple",
+       "Ungu"
+      ],
+      [
+       "Large",
+       "Besar (ukuran)"
+      ],
+      [
+       "Medium",
+       "Sedang"
+      ],
+      [
+       "Short",
+       "Pendek"
+      ],
+      [
+       "Long",
+       "Panjang"
+      ],
+      [
+       "Tight",
+       "Ketat"
+      ],
+      [
+       "Loose",
+       "Longgar"
+      ],
+      [
+       "Comfortable",
+       "Nyaman"
+      ]
+     ],
+     "f": [
+      [
+       "This shirt is too ___. I cannot move.",
+       "tight",
+       [
+        "tight",
+        "loose",
+        "long"
+       ],
+       "Kemeja ini terlalu ketat. Saya tidak bisa bergerak."
+      ],
+      [
+       "I like ___ blue, not dark blue.",
+       "light",
+       [
+        "light",
+        "short",
+        "large"
+       ],
+       "Saya suka biru muda, bukan biru tua."
+      ]
+     ],
+     "o": [
+      [
+       "These shoes are comfortable",
+       "Sepatu ini nyaman"
+      ],
+      [
+       "I want a large size",
+       "Saya mau ukuran besar"
+      ]
+     ]
+    },
+    {
+     "id": "a2s4",
+     "t": "Di toko pakaian",
+     "note": "Untuk bertanya sopan pakai Can I ... ? atau Do you have ... ? Jawaban sopan: Sure, here you are.",
+     "ph": 1,
+     "v": [
+      [
+       "Can I try this on?",
+       "Boleh saya mencoba ini?"
+      ],
+      [
+       "Where is the fitting room?",
+       "Di mana ruang ganti?"
+      ],
+      [
+       "Do you have this in a larger size?",
+       "Apakah ada ukuran lebih besar?"
+      ],
+      [
+       "It does not fit me.",
+       "Ini tidak cocok di badan saya."
+      ],
+      [
+       "How much is this jacket?",
+       "Berapa harga jaket ini?"
+      ],
+      [
+       "It is too expensive for me.",
+       "Ini terlalu mahal untuk saya."
+      ],
+      [
+       "Do you have any discounts?",
+       "Apakah ada diskon?"
+      ],
+      [
+       "I will take it.",
+       "Saya ambil ini."
+      ]
+     ],
+     "f": [],
+     "o": []
+    }
+   ]
+  },
+  {
+   "n": "A2 Perjalanan dan kesehatan",
+   "desc": "Bepergian, liburan, tubuh, dan pergi ke dokter",
+   "lessons": [
+    {
+     "id": "a2t1",
+     "t": "Di bandara dan stasiun",
+     "note": "Luggage tidak bisa dihitung: some luggage, bukan a luggage. Untuk satu barang pakai a suitcase atau a bag.",
+     "ph": 0,
+     "v": [
+      [
+       "Passport",
+       "Paspor"
+      ],
+      [
+       "Luggage",
+       "Bagasi"
+      ],
+      [
+       "Suitcase",
+       "Koper"
+      ],
+      [
+       "Gate",
+       "Gerbang keberangkatan"
+      ],
+      [
+       "Flight",
+       "Penerbangan"
+      ],
+      [
+       "Departure",
+       "Keberangkatan"
+      ],
+      [
+       "Arrival",
+       "Kedatangan"
+      ],
+      [
+       "Delay",
+       "Penundaan"
+      ],
+      [
+       "Platform",
+       "Peron"
+      ],
+      [
+       "Journey",
+       "Perjalanan"
+      ],
+      [
+       "Passenger",
+       "Penumpang"
+      ],
+      [
+       "Customs",
+       "Bea cukai"
+      ]
+     ],
+     "f": [
+      [
+       "Please show your ___ at the gate.",
+       "passport",
+       [
+        "passport",
+        "platform",
+        "delay"
+       ],
+       "Silakan tunjukkan paspor Anda di gerbang."
+      ],
+      [
+       "The flight has a ___. We must wait.",
+       "delay",
+       [
+        "delay",
+        "gate",
+        "journey"
+       ],
+       "Penerbangannya tertunda. Kita harus menunggu."
+      ]
+     ],
+     "o": [
+      [
+       "My flight leaves at six",
+       "Penerbanganku berangkat jam enam"
+      ],
+      [
+       "Where is my suitcase",
+       "Di mana koperku"
+      ]
+     ]
+    },
+    {
+     "id": "a2t2",
+     "t": "Hotel dan liburan",
+     "note": "Untuk rencana liburan pakai go + kegiatan: go sightseeing, go shopping, go swimming.",
+     "ph": 0,
+     "v": [
+      [
+       "Hotel",
+       "Hotel"
+      ],
+      [
+       "Guest",
+       "Tamu"
+      ],
+      [
+       "Reception",
+       "Resepsionis"
+      ],
+      [
+       "Single room",
+       "Kamar single"
+      ],
+      [
+       "Double room",
+       "Kamar double"
+      ],
+      [
+       "Swimming pool",
+       "Kolam renang"
+      ],
+      [
+       "Beach",
+       "Pantai"
+      ],
+      [
+       "Mountain",
+       "Gunung"
+      ],
+      [
+       "Sightseeing",
+       "Wisata keliling"
+      ],
+      [
+       "Tour",
+       "Tur"
+      ],
+      [
+       "Map",
+       "Peta"
+      ],
+      [
+       "Souvenir",
+       "Oleh-oleh"
+      ]
+     ],
+     "f": [
+      [
+       "We want to go ___ in the old city.",
+       "sightseeing",
+       [
+        "sightseeing",
+        "reception",
+        "platform"
+       ],
+       "Kami ingin berwisata keliling kota tua."
+      ],
+      [
+       "I buy a ___ for my family.",
+       "souvenir",
+       [
+        "souvenir",
+        "tour",
+        "guest"
+       ],
+       "Saya membeli oleh-oleh untuk keluarga."
+      ]
+     ],
+     "o": [
+      [
+       "We swim in the swimming pool",
+       "Kami berenang di kolam renang"
+      ],
+      [
+       "The beach is near the hotel",
+       "Pantainya dekat hotel"
+      ]
+     ]
+    },
+    {
+     "id": "a2t3",
+     "t": "Arah dan petunjuk jalan",
+     "note": "Untuk memberi arah pakai kata perintah: go straight, turn left at the traffic light. Untuk letak: it is opposite the bank.",
+     "ph": 0,
+     "v": [
+      [
+       "Straight",
+       "Lurus"
+      ],
+      [
+       "Corner",
+       "Sudut jalan"
+      ],
+      [
+       "Traffic light",
+       "Lampu lalu lintas"
+      ],
+      [
+       "Crossroad",
+       "Perempatan"
+      ],
+      [
+       "Bridge",
+       "Jembatan"
+      ],
+      [
+       "Street",
+       "Jalan kecil"
+      ],
+      [
+       "Square",
+       "Lapangan"
+      ],
+      [
+       "Museum",
+       "Museum"
+      ],
+      [
+       "Church",
+       "Gereja"
+      ],
+      [
+       "Mosque",
+       "Masjid"
+      ],
+      [
+       "Temple",
+       "Kuil"
+      ],
+      [
+       "Opposite",
+       "Di seberang"
+      ]
+     ],
+     "f": [
+      [
+       "Go ___ and turn left at the corner.",
+       "straight",
+       [
+        "straight",
+        "opposite",
+        "bridge"
+       ],
+       "Jalan lurus lalu belok kiri di sudut jalan."
+      ],
+      [
+       "The museum is ___ the bank.",
+       "opposite",
+       [
+        "opposite",
+        "straight",
+        "street"
+       ],
+       "Museumnya di seberang bank."
+      ]
+     ],
+     "o": [
+      [
+       "Turn right at the traffic light",
+       "Belok kanan di lampu lalu lintas"
+      ],
+      [
+       "The mosque is near the square",
+       "Masjidnya dekat lapangan"
+      ]
+     ]
+    },
+    {
+     "id": "a2t4",
+     "t": "Merencanakan perjalanan",
+     "note": "Untuk rencana pakai want to + kata kerja dasar: I want to visit Japan. Untuk rencana pasti pakai are going to.",
+     "ph": 1,
+     "v": [
+      [
+       "Where do you want to go?",
+       "Kamu mau pergi ke mana?"
+      ],
+      [
+       "I want to visit Japan.",
+       "Saya ingin mengunjungi Jepang."
+      ],
+      [
+       "How long is the trip?",
+       "Berapa lama perjalanannya?"
+      ],
+      [
+       "We are going to stay for a week.",
+       "Kami akan menginap selama seminggu."
+      ],
+      [
+       "Can you recommend a good hotel?",
+       "Bisakah Anda merekomendasikan hotel yang bagus?"
+      ],
+      [
+       "I need to book a ticket.",
+       "Saya perlu memesan tiket."
+      ],
+      [
+       "Is the beach far from here?",
+       "Apakah pantainya jauh dari sini?"
+      ],
+      [
+       "Have a nice trip!",
+       "Selamat jalan!"
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "a2h1",
+     "t": "Bagian tubuh lanjutan",
+     "note": "Untuk sakit pakai My ... hurts atau I have a pain in my ... : my back hurts.",
+     "ph": 0,
+     "v": [
+      [
+       "Neck",
+       "Leher"
+      ],
+      [
+       "Shoulder",
+       "Bahu"
+      ],
+      [
+       "Back",
+       "Punggung"
+      ],
+      [
+       "Chest",
+       "Dada"
+      ],
+      [
+       "Stomach",
+       "Perut"
+      ],
+      [
+       "Knee",
+       "Lutut"
+      ],
+      [
+       "Finger",
+       "Jari"
+      ],
+      [
+       "Thumb",
+       "Ibu jari"
+      ],
+      [
+       "Skin",
+       "Kulit"
+      ],
+      [
+       "Face",
+       "Wajah"
+      ],
+      [
+       "Lip",
+       "Bibir"
+      ],
+      [
+       "Throat",
+       "Tenggorokan"
+      ]
+     ],
+     "f": [
+      [
+       "My ___ hurts because I sit all day.",
+       "back",
+       [
+        "back",
+        "thumb",
+        "lip"
+       ],
+       "Punggungku sakit karena saya duduk seharian."
+      ],
+      [
+       "He bends his ___ to sit down.",
+       "knees",
+       [
+        "knees",
+        "face",
+        "skin"
+       ],
+       "Dia menekuk lututnya untuk duduk."
+      ]
+     ],
+     "o": [
+      [
+       "My throat hurts",
+       "Tenggorokanku sakit"
+      ],
+      [
+       "She has a pain in her shoulder",
+       "Bahunya terasa sakit"
+      ]
+     ]
+    },
+    {
+     "id": "a2h2",
+     "t": "Penyakit dan obat",
+     "note": "Pakai have untuk penyakit: I have a cold, she has the flu. Hati-hati: I am cold berarti kedinginan, bukan pilek.",
+     "ph": 0,
+     "v": [
+      [
+       "Cold",
+       "Pilek"
+      ],
+      [
+       "Cough",
+       "Batuk"
+      ],
+      [
+       "Flu",
+       "Flu"
+      ],
+      [
+       "Pain",
+       "Rasa sakit"
+      ],
+      [
+       "Toothache",
+       "Sakit gigi"
+      ],
+      [
+       "Allergy",
+       "Alergi"
+      ],
+      [
+       "Medicine",
+       "Obat"
+      ],
+      [
+       "Pill",
+       "Pil"
+      ],
+      [
+       "Injection",
+       "Suntikan"
+      ],
+      [
+       "Bandage",
+       "Perban"
+      ],
+      [
+       "Illness",
+       "Penyakit"
+      ],
+      [
+       "Healthy",
+       "Sehat"
+      ]
+     ],
+     "f": [
+      [
+       "I cough all night. I have a bad ___.",
+       "cough",
+       [
+        "cough",
+        "pill",
+        "bandage"
+       ],
+       "Saya batuk sepanjang malam. Batuk saya parah."
+      ],
+      [
+       "Take this ___ after you eat.",
+       "medicine",
+       [
+        "medicine",
+        "illness",
+        "pain"
+       ],
+       "Minum obat ini setelah makan."
+      ]
+     ],
+     "o": [
+      [
+       "I have a cold",
+       "Saya pilek"
+      ],
+      [
+       "The medicine is on the table",
+       "Obatnya ada di atas meja"
+      ]
+     ]
+    },
+    {
+     "id": "a2h3",
+     "t": "Gaya hidup sehat",
+     "note": "Untuk memberi saran pakai should: you should sleep early, you should drink water.",
+     "ph": 0,
+     "v": [
+      [
+       "Exercise",
+       "Olahraga"
+      ],
+      [
+       "Diet",
+       "Pola makan"
+      ],
+      [
+       "Vitamin",
+       "Vitamin"
+      ],
+      [
+       "Sleep",
+       "Tidur"
+      ],
+      [
+       "Rest",
+       "Istirahat"
+      ],
+      [
+       "Habit",
+       "Kebiasaan"
+      ],
+      [
+       "Weight",
+       "Berat badan"
+      ],
+      [
+       "Fit",
+       "Bugar"
+      ],
+      [
+       "Stress",
+       "Stres"
+      ],
+      [
+       "Fresh air",
+       "Udara segar"
+      ],
+      [
+       "Gym",
+       "Pusat kebugaran"
+      ],
+      [
+       "Stretch",
+       "Meregangkan badan"
+      ]
+     ],
+     "f": [
+      [
+       "I do ___ every morning to stay fit.",
+       "exercise",
+       [
+        "exercise",
+        "medicine",
+        "injection"
+       ],
+       "Saya berolahraga setiap pagi agar tetap bugar."
+      ],
+      [
+       "A good ___ is to drink water every day.",
+       "habit",
+       [
+        "habit",
+        "weight",
+        "stress"
+       ],
+       "Kebiasaan yang baik adalah minum air setiap hari."
+      ]
+     ],
+     "o": [
+      [
+       "You should sleep early",
+       "Kamu sebaiknya tidur lebih awal"
+      ],
+      [
+       "I go to the gym on Monday",
+       "Saya pergi ke pusat kebugaran hari Senin"
+      ]
+     ]
+    },
+    {
+     "id": "a2h4",
+     "t": "Di dokter",
+     "note": "Untuk membuat janji pakai I have an appointment ... atau I need to see a doctor.",
+     "ph": 1,
+     "v": [
+      [
+       "I need to see a doctor.",
+       "Saya perlu menemui dokter."
+      ],
+      [
+       "I have an appointment at ten.",
+       "Saya punya janji temu jam sepuluh."
+      ],
+      [
+       "Do you have any allergies?",
+       "Apakah Anda punya alergi?"
+      ],
+      [
+       "How often should I take this?",
+       "Seberapa sering saya harus meminumnya?"
+      ],
+      [
+       "Drink a lot of water.",
+       "Minumlah banyak air."
+      ],
+      [
+       "You should stay in bed.",
+       "Kamu sebaiknya tetap di tempat tidur."
+      ],
+      [
+       "I feel much better now.",
+       "Saya merasa jauh lebih baik sekarang."
+      ],
+      [
+       "Get well soon!",
+       "Semoga cepat sembuh!"
+      ]
+     ],
+     "f": [],
+     "o": []
+    }
+   ]
+  },
+  {
+   "n": "A2 Rumah, kota, dan alam",
+   "desc": "Isi rumah, kehidupan kota, alam, dan lingkungan",
+   "lessons": [
+    {
+     "id": "a2c1",
+     "t": "Perabot dan peralatan rumah",
+     "note": "Untuk benda di rumah pakai there is dan there are: there is a sofa in the living room.",
+     "ph": 0,
+     "v": [
+      [
+       "Sofa",
+       "Sofa"
+      ],
+      [
+       "Curtain",
+       "Gorden"
+      ],
+      [
+       "Mirror",
+       "Cermin"
+      ],
+      [
+       "Carpet",
+       "Karpet"
+      ],
+      [
+       "Shelf",
+       "Rak"
+      ],
+      [
+       "Fridge",
+       "Kulkas"
+      ],
+      [
+       "Oven",
+       "Oven"
+      ],
+      [
+       "Washing machine",
+       "Mesin cuci"
+      ],
+      [
+       "Fan",
+       "Kipas angin"
+      ],
+      [
+       "Air conditioner",
+       "Pendingin ruangan"
+      ],
+      [
+       "Cupboard",
+       "Lemari dapur"
+      ],
+      [
+       "Blanket",
+       "Selimut"
+      ]
+     ],
+     "f": [
+      [
+       "I keep the milk in the ___.",
+       "fridge",
+       [
+        "fridge",
+        "oven",
+        "shelf"
+       ],
+       "Saya menyimpan susu di kulkas."
+      ],
+      [
+       "It is hot. Please turn on the ___.",
+       "fan",
+       [
+        "fan",
+        "carpet",
+        "blanket"
+       ],
+       "Panas sekali. Tolong nyalakan kipas angin."
+      ]
+     ],
+     "o": [
+      [
+       "There is a mirror in the bathroom",
+       "Ada cermin di kamar mandi"
+      ],
+      [
+       "The sofa is very comfortable",
+       "Sofanya sangat nyaman"
+      ]
+     ]
+    },
+    {
+     "id": "a2c2",
+     "t": "Di kota",
+     "note": "City adalah kota besar, town kota kecil, dan village desa: I live in a small town.",
+     "ph": 0,
+     "v": [
+      [
+       "Building",
+       "Gedung"
+      ],
+      [
+       "Traffic",
+       "Lalu lintas"
+      ],
+      [
+       "Crowded",
+       "Ramai"
+      ],
+      [
+       "Quiet",
+       "Sepi"
+      ],
+      [
+       "Neighbor",
+       "Tetangga"
+      ],
+      [
+       "Post office",
+       "Kantor pos"
+      ],
+      [
+       "Police station",
+       "Kantor polisi"
+      ],
+      [
+       "Cinema",
+       "Bioskop"
+      ],
+      [
+       "Playground",
+       "Taman bermain"
+      ],
+      [
+       "Factory",
+       "Pabrik"
+      ],
+      [
+       "Village",
+       "Desa"
+      ],
+      [
+       "City",
+       "Kota"
+      ]
+     ],
+     "f": [
+      [
+       "The center of the city is very ___ at five.",
+       "crowded",
+       [
+        "crowded",
+        "quiet",
+        "empty"
+       ],
+       "Pusat kota sangat ramai jam lima."
+      ],
+      [
+       "I send a letter at the ___.",
+       "post office",
+       [
+        "post office",
+        "factory",
+        "cinema"
+       ],
+       "Saya mengirim surat di kantor pos."
+      ]
+     ],
+     "o": [
+      [
+       "My neighbor lives in a village",
+       "Tetanggaku tinggal di desa"
+      ],
+      [
+       "The street is very quiet",
+       "Jalannya sangat sepi"
+      ]
+     ]
+    },
+    {
+     "id": "a2c3",
+     "t": "Pekerjaan rumah",
+     "note": "Untuk pekerjaan rumah pakai do atau take out: do the dishes, do the laundry, take out the rubbish.",
+     "ph": 0,
+     "v": [
+      [
+       "Clean",
+       "Membersihkan"
+      ],
+      [
+       "Sweep",
+       "Menyapu"
+      ],
+      [
+       "Mop",
+       "Mengepel"
+      ],
+      [
+       "Iron",
+       "Menyetrika"
+      ],
+      [
+       "Rubbish",
+       "Sampah"
+      ],
+      [
+       "Laundry",
+       "Cucian"
+      ],
+      [
+       "Do the dishes",
+       "Mencuci piring"
+      ],
+      [
+       "Repair",
+       "Memperbaiki"
+      ],
+      [
+       "Paint",
+       "Mengecat"
+      ],
+      [
+       "Lock",
+       "Mengunci"
+      ],
+      [
+       "Switch off",
+       "Mematikan"
+      ]
+     ],
+     "f": [
+      [
+       "Every Sunday I ___ the floor.",
+       "sweep",
+       [
+        "sweep",
+        "paint",
+        "iron"
+       ],
+       "Setiap Minggu saya menyapu lantai."
+      ],
+      [
+       "Please ___ the lights when you leave.",
+       "switch off",
+       [
+        "switch off",
+        "repair",
+        "mop"
+       ],
+       "Tolong matikan lampu saat kamu pergi."
+      ]
+     ],
+     "o": [
+      [
+       "I do the laundry on Saturday",
+       "Saya mencuci pakaian hari Sabtu"
+      ],
+      [
+       "He repairs the door",
+       "Dia memperbaiki pintu itu"
+      ]
+     ]
+    },
+    {
+     "id": "a2c4",
+     "t": "Di rumah dan dengan tetangga",
+     "note": "Untuk menawarkan sesuatu sopan pakai Would you like ... ? Untuk meminta izin pakai Can I ... ?",
+     "ph": 1,
+     "v": [
+      [
+       "Can I borrow your pen?",
+       "Boleh saya meminjam penamu?"
+      ],
+      [
+       "Could you turn the music down?",
+       "Bisakah kamu mengecilkan musiknya?"
+      ],
+      [
+       "Welcome to my home.",
+       "Selamat datang di rumahku."
+      ],
+      [
+       "Make yourself at home.",
+       "Anggap saja rumah sendiri."
+      ],
+      [
+       "Where can I put my bag?",
+       "Di mana saya bisa menaruh tas saya?"
+      ],
+      [
+       "Would you like some tea?",
+       "Apakah kamu mau teh?"
+      ],
+      [
+       "Thank you for having me.",
+       "Terima kasih sudah mengundang saya."
+      ],
+      [
+       "I live next door.",
+       "Saya tinggal di sebelah rumah."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "a2n1",
+     "t": "Alam",
+     "note": "Nama tempat alam sering memakai the: the sea, the sun. Untuk satu yang umum pakai a: a river, a forest.",
+     "ph": 0,
+     "v": [
+      [
+       "River",
+       "Sungai"
+      ],
+      [
+       "Lake",
+       "Danau"
+      ],
+      [
+       "Sea",
+       "Laut"
+      ],
+      [
+       "Forest",
+       "Hutan"
+      ],
+      [
+       "Hill",
+       "Bukit"
+      ],
+      [
+       "Island",
+       "Pulau"
+      ],
+      [
+       "Field",
+       "Ladang"
+      ],
+      [
+       "Desert",
+       "Gurun"
+      ],
+      [
+       "Volcano",
+       "Gunung berapi"
+      ],
+      [
+       "Tree",
+       "Pohon"
+      ],
+      [
+       "Flower",
+       "Bunga"
+      ],
+      [
+       "Grass",
+       "Rumput"
+      ]
+     ],
+     "f": [
+      [
+       "We swim in the ___.",
+       "sea",
+       [
+        "sea",
+        "forest",
+        "hill"
+       ],
+       "Kami berenang di laut."
+      ],
+      [
+       "Many trees grow in the ___.",
+       "forest",
+       [
+        "forest",
+        "lake",
+        "desert"
+       ],
+       "Banyak pohon tumbuh di hutan."
+      ]
+     ],
+     "o": [
+      [
+       "There is a lake near the hill",
+       "Ada danau di dekat bukit"
+      ],
+      [
+       "Bali is an island",
+       "Bali adalah sebuah pulau"
+      ]
+     ]
+    },
+    {
+     "id": "a2n2",
+     "t": "Hewan liar dan serangga",
+     "note": "Hewan liar sering disebut umum dengan jamak: tigers are big cats. Atau dengan the: the tiger is a big cat.",
+     "ph": 0,
+     "v": [
+      [
+       "Lion",
+       "Singa"
+      ],
+      [
+       "Tiger",
+       "Harimau"
+      ],
+      [
+       "Elephant",
+       "Gajah"
+      ],
+      [
+       "Bear",
+       "Beruang"
+      ],
+      [
+       "Snake",
+       "Ular"
+      ],
+      [
+       "Crocodile",
+       "Buaya"
+      ],
+      [
+       "Turtle",
+       "Kura-kura"
+      ],
+      [
+       "Mosquito",
+       "Nyamuk"
+      ],
+      [
+       "Butterfly",
+       "Kupu-kupu"
+      ],
+      [
+       "Ant",
+       "Semut"
+      ],
+      [
+       "Spider",
+       "Laba-laba"
+      ],
+      [
+       "Wolf",
+       "Serigala"
+      ]
+     ],
+     "f": [
+      [
+       "An ___ is the biggest animal on land.",
+       "elephant",
+       [
+        "elephant",
+        "ant",
+        "wolf"
+       ],
+       "Gajah adalah hewan terbesar di darat."
+      ],
+      [
+       "A ___ has eight legs.",
+       "spider",
+       [
+        "spider",
+        "snake",
+        "bear"
+       ],
+       "Laba-laba punya delapan kaki."
+      ]
+     ],
+     "o": [
+      [
+       "The lion is a big cat",
+       "Singa adalah kucing besar"
+      ],
+      [
+       "Mosquitoes bite at night",
+       "Nyamuk menggigit di malam hari"
+      ]
+     ]
+    },
+    {
+     "id": "a2n3",
+     "t": "Lingkungan",
+     "note": "Untuk ajakan pakai Let us + kata kerja dasar: Let us save water. Let us plant trees.",
+     "ph": 0,
+     "v": [
+      [
+       "Environment",
+       "Lingkungan"
+      ],
+      [
+       "Pollution",
+       "Polusi"
+      ],
+      [
+       "Recycle",
+       "Mendaur ulang"
+      ],
+      [
+       "Plastic",
+       "Plastik"
+      ],
+      [
+       "Waste",
+       "Limbah"
+      ],
+      [
+       "Energy",
+       "Energi"
+      ],
+      [
+       "Save",
+       "Menghemat"
+      ],
+      [
+       "Protect",
+       "Melindungi"
+      ],
+      [
+       "Fresh",
+       "Segar"
+      ],
+      [
+       "Earth",
+       "Bumi"
+      ],
+      [
+       "Air",
+       "Udara"
+      ],
+      [
+       "Plant",
+       "Menanam"
+      ]
+     ],
+     "f": [
+      [
+       "Dirty air is a kind of ___.",
+       "pollution",
+       [
+        "pollution",
+        "energy",
+        "earth"
+       ],
+       "Udara kotor adalah sejenis polusi."
+      ],
+      [
+       "We ___ trees to help the earth.",
+       "plant",
+       [
+        "plant",
+        "recycle",
+        "waste"
+       ],
+       "Kami menanam pohon untuk membantu bumi."
+      ]
+     ],
+     "o": [
+      [
+       "We must protect the environment",
+       "Kita harus melindungi lingkungan"
+      ],
+      [
+       "Plastic waste is a big problem",
+       "Limbah plastik adalah masalah besar"
+      ]
+     ]
+    },
+    {
+     "id": "a2n4",
+     "t": "Membicarakan cuaca dan alam",
+     "note": "Untuk menanyakan cuaca pakai What is the weather like? Jawab dengan it is + kata sifat: it is windy.",
+     "ph": 1,
+     "v": [
+      [
+       "What is the weather like today?",
+       "Bagaimana cuaca hari ini?"
+      ],
+      [
+       "It is going to rain.",
+       "Sebentar lagi akan hujan."
+      ],
+      [
+       "It is very windy outside.",
+       "Di luar sangat berangin."
+      ],
+      [
+       "I love the sea.",
+       "Saya suka laut."
+      ],
+      [
+       "The mountain is beautiful.",
+       "Gunungnya indah."
+      ],
+      [
+       "Let us go for a walk.",
+       "Ayo kita jalan-jalan."
+      ],
+      [
+       "Do not forget your umbrella.",
+       "Jangan lupa payungmu."
+      ],
+      [
+       "The sky is clear tonight.",
+       "Langit cerah malam ini."
+      ]
+     ],
+     "f": [],
+     "o": []
+    }
+   ]
+  },
+  {
+   "n": "A2 Pekerjaan, sekolah, dan teknologi",
+   "desc": "Dunia kerja, belajar di sekolah, perangkat, dan komunikasi",
+   "lessons": [
+    {
+     "id": "a2w1",
+     "t": "Tempat kerja",
+     "note": "Work bisa berarti bekerja dan pekerjaan yang tidak terhitung: I have a lot of work. Job bisa dihitung: a job, two jobs.",
+     "ph": 0,
+     "v": [
+      [
+       "Company",
+       "Perusahaan"
+      ],
+      [
+       "Manager",
+       "Manajer"
+      ],
+      [
+       "Colleague",
+       "Rekan kerja"
+      ],
+      [
+       "Boss",
+       "Atasan"
+      ],
+      [
+       "Meeting",
+       "Rapat"
+      ],
+      [
+       "Email",
+       "Surel"
+      ],
+      [
+       "Salary",
+       "Gaji"
+      ],
+      [
+       "Schedule",
+       "Jadwal"
+      ],
+      [
+       "Report",
+       "Laporan"
+      ],
+      [
+       "Job",
+       "Pekerjaan"
+      ],
+      [
+       "Interview",
+       "Wawancara"
+      ],
+      [
+       "Experience",
+       "Pengalaman"
+      ]
+     ],
+     "f": [
+      [
+       "I have a ___ with my manager at ten.",
+       "meeting",
+       [
+        "meeting",
+        "salary",
+        "schedule"
+       ],
+       "Saya ada rapat dengan manajer jam sepuluh."
+      ],
+      [
+       "My ___ is very kind. He helps everyone.",
+       "boss",
+       [
+        "boss",
+        "report",
+        "interview"
+       ],
+       "Atasanku sangat baik. Dia membantu semua orang."
+      ]
+     ],
+     "o": [
+      [
+       "I send an email to my boss",
+       "Saya mengirim surel kepada atasan saya"
+      ],
+      [
+       "The meeting is at nine",
+       "Rapatnya jam sembilan"
+      ]
+     ]
+    },
+    {
+     "id": "a2w2",
+     "t": "Jenis pekerjaan",
+     "note": "Untuk menanyakan pekerjaan: What do you do? Jawab: I am a ... atau I work as a ... : I work as a mechanic.",
+     "ph": 0,
+     "v": [
+      [
+       "Waiter",
+       "Pelayan"
+      ],
+      [
+       "Dentist",
+       "Dokter gigi"
+      ],
+      [
+       "Lawyer",
+       "Pengacara"
+      ],
+      [
+       "Pilot",
+       "Pilot"
+      ],
+      [
+       "Artist",
+       "Seniman"
+      ],
+      [
+       "Shopkeeper",
+       "Pemilik toko"
+      ],
+      [
+       "Builder",
+       "Tukang bangunan"
+      ],
+      [
+       "Mechanic",
+       "Montir"
+      ],
+      [
+       "Secretary",
+       "Sekretaris"
+      ],
+      [
+       "Accountant",
+       "Akuntan"
+      ],
+      [
+       "Journalist",
+       "Wartawan"
+      ],
+      [
+       "Programmer",
+       "Pemrogram"
+      ]
+     ],
+     "f": [
+      [
+       "A ___ fixes cars.",
+       "mechanic",
+       [
+        "mechanic",
+        "lawyer",
+        "pilot"
+       ],
+       "Montir memperbaiki mobil."
+      ],
+      [
+       "She works as a ___. She writes news.",
+       "journalist",
+       [
+        "journalist",
+        "builder",
+        "dentist"
+       ],
+       "Dia bekerja sebagai wartawan. Dia menulis berita."
+      ]
+     ],
+     "o": [
+      [
+       "My brother is a programmer",
+       "Kakakku seorang pemrogram"
+      ],
+      [
+       "What do you do",
+       "Apa pekerjaanmu"
+      ]
+     ]
+    },
+    {
+     "id": "a2w3",
+     "t": "Sekolah dan mata pelajaran",
+     "note": "Nama pelajaran bahasa memakai huruf kapital: English, Indonesian. Untuk kuliah pakai study at university.",
+     "ph": 0,
+     "v": [
+      [
+       "Subject",
+       "Mata pelajaran"
+      ],
+      [
+       "Mathematics",
+       "Matematika"
+      ],
+      [
+       "Science",
+       "Ilmu pengetahuan alam"
+      ],
+      [
+       "History",
+       "Sejarah"
+      ],
+      [
+       "Geography",
+       "Geografi"
+      ],
+      [
+       "Art",
+       "Seni"
+      ],
+      [
+       "Music",
+       "Musik"
+      ],
+      [
+       "Grade",
+       "Nilai"
+      ],
+      [
+       "Test",
+       "Tes"
+      ],
+      [
+       "University",
+       "Universitas"
+      ],
+      [
+       "Dictionary",
+       "Kamus"
+      ],
+      [
+       "Degree",
+       "Gelar"
+      ]
+     ],
+     "f": [
+      [
+       "I use a ___ to check new words.",
+       "dictionary",
+       [
+        "dictionary",
+        "grade",
+        "subject"
+       ],
+       "Saya memakai kamus untuk mengecek kata baru."
+      ],
+      [
+       "My favorite ___ is history.",
+       "subject",
+       [
+        "subject",
+        "test",
+        "degree"
+       ],
+       "Mata pelajaran favoritku adalah sejarah."
+      ]
+     ],
+     "o": [
+      [
+       "I study science at university",
+       "Saya belajar IPA di universitas"
+      ],
+      [
+       "I have a test today",
+       "Hari ini saya ada tes"
+      ]
+     ]
+    },
+    {
+     "id": "a2w4",
+     "t": "Percakapan di tempat kerja",
+     "note": "Untuk meminta waktu sopan pakai Can we talk for a minute? Untuk berjanji pakai I will + kata kerja dasar.",
+     "ph": 1,
+     "v": [
+      [
+       "What time does the meeting start?",
+       "Jam berapa rapat dimulai?"
+      ],
+      [
+       "I will send you an email.",
+       "Saya akan mengirimi Anda surel."
+      ],
+      [
+       "Can we talk for a minute?",
+       "Bisakah kita bicara sebentar?"
+      ],
+      [
+       "I am sorry I am late.",
+       "Maaf saya terlambat."
+      ],
+      [
+       "I do not have enough time.",
+       "Saya tidak punya cukup waktu."
+      ],
+      [
+       "Could you help me with this report?",
+       "Bisakah Anda membantu saya dengan laporan ini?"
+      ],
+      [
+       "I will finish it by Friday.",
+       "Saya akan menyelesaikannya paling lambat hari Jumat."
+      ],
+      [
+       "Let us have lunch together.",
+       "Mari kita makan siang bersama."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "a2k1",
+     "t": "Perangkat dan internet",
+     "note": "Banyak kata teknologi dipakai dengan turn on, turn off, charge, dan log in: my battery is low.",
+     "ph": 0,
+     "v": [
+      [
+       "Computer",
+       "Komputer"
+      ],
+      [
+       "Laptop",
+       "Laptop"
+      ],
+      [
+       "Screen",
+       "Layar"
+      ],
+      [
+       "Keyboard",
+       "Papan ketik"
+      ],
+      [
+       "Mouse",
+       "Tetikus"
+      ],
+      [
+       "Battery",
+       "Baterai"
+      ],
+      [
+       "Charger",
+       "Pengisi daya"
+      ],
+      [
+       "Camera",
+       "Kamera"
+      ],
+      [
+       "Headphones",
+       "Headphone"
+      ],
+      [
+       "Internet",
+       "Internet"
+      ],
+      [
+       "Website",
+       "Situs web"
+      ],
+      [
+       "Password",
+       "Kata sandi"
+      ]
+     ],
+     "f": [
+      [
+       "I need a ___ for my phone. The battery is empty.",
+       "charger",
+       [
+        "charger",
+        "mouse",
+        "screen"
+       ],
+       "Saya butuh pengisi daya untuk ponsel. Baterainya habis."
+      ],
+      [
+       "Do not tell anyone your ___.",
+       "password",
+       [
+        "password",
+        "website",
+        "keyboard"
+       ],
+       "Jangan beri tahu siapa pun kata sandimu."
+      ]
+     ],
+     "o": [
+      [
+       "My laptop is on the table",
+       "Laptopku ada di atas meja"
+      ],
+      [
+       "The battery is low",
+       "Baterainya hampir habis"
+      ]
+     ]
+    },
+    {
+     "id": "a2k2",
+     "t": "Media sosial dan pesan",
+     "note": "Untuk komunikasi digital pakai send, post, dan share: I send a message, she shares a photo.",
+     "ph": 0,
+     "v": [
+      [
+       "Message",
+       "Pesan"
+      ],
+      [
+       "Photo",
+       "Foto"
+      ],
+      [
+       "Video",
+       "Video"
+      ],
+      [
+       "Account",
+       "Akun"
+      ],
+      [
+       "Follow",
+       "Mengikuti"
+      ],
+      [
+       "Share",
+       "Membagikan"
+      ],
+      [
+       "Post",
+       "Mengunggah"
+      ],
+      [
+       "Download",
+       "Mengunduh"
+      ],
+      [
+       "Link",
+       "Tautan"
+      ],
+      [
+       "Online",
+       "Daring"
+      ],
+      [
+       "Offline",
+       "Luring"
+      ],
+      [
+       "Group chat",
+       "Obrolan grup"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ a photo on my account every week.",
+       "post",
+       [
+        "post",
+        "follow",
+        "download"
+       ],
+       "Saya mengunggah foto di akun saya setiap minggu."
+      ],
+      [
+       "Please click this ___ to see the video.",
+       "link",
+       [
+        "link",
+        "account",
+        "battery"
+       ],
+       "Silakan klik tautan ini untuk melihat videonya."
+      ]
+     ],
+     "o": [
+      [
+       "I send a message to my friend",
+       "Saya mengirim pesan kepada temanku"
+      ],
+      [
+       "He shares a video",
+       "Dia membagikan sebuah video"
+      ]
+     ]
+    },
+    {
+     "id": "a2k3",
+     "t": "Surat dan telepon",
+     "note": "Call dipakai untuk menelepon: I call my mother. Untuk meminta dihubungi balik: call me back.",
+     "ph": 0,
+     "v": [
+      [
+       "Letter",
+       "Surat"
+      ],
+      [
+       "Envelope",
+       "Amplop"
+      ],
+      [
+       "Stamp",
+       "Perangko"
+      ],
+      [
+       "Address",
+       "Alamat"
+      ],
+      [
+       "Parcel",
+       "Paket"
+      ],
+      [
+       "Postcard",
+       "Kartu pos"
+      ],
+      [
+       "Phone number",
+       "Nomor telepon"
+      ],
+      [
+       "Voice message",
+       "Pesan suara"
+      ],
+      [
+       "Signal",
+       "Sinyal"
+      ],
+      [
+       "Call",
+       "Menelepon"
+      ],
+      [
+       "Answer",
+       "Menjawab telepon"
+      ],
+      [
+       "Missed call",
+       "Panggilan tak terjawab"
+      ]
+     ],
+     "f": [
+      [
+       "I need a ___ to send this letter.",
+       "stamp",
+       [
+        "stamp",
+        "signal",
+        "parcel"
+       ],
+       "Saya butuh perangko untuk mengirim surat ini."
+      ],
+      [
+       "I have no ___ here. I cannot call you.",
+       "signal",
+       [
+        "signal",
+        "address",
+        "letter"
+       ],
+       "Di sini tidak ada sinyal. Saya tidak bisa meneleponmu."
+      ]
+     ],
+     "o": [
+      [
+       "I write my address on the envelope",
+       "Saya menulis alamat saya di amplop"
+      ],
+      [
+       "He has a missed call",
+       "Dia punya panggilan tak terjawab"
+      ]
+     ]
+    },
+    {
+     "id": "a2k4",
+     "t": "Berkomunikasi lewat pesan dan telepon",
+     "note": "Untuk menyampaikan niat pakai I will + kata kerja dasar: I will text you later.",
+     "ph": 1,
+     "v": [
+      [
+       "What is your phone number?",
+       "Berapa nomor teleponmu?"
+      ],
+      [
+       "Can I have your email address?",
+       "Boleh saya minta alamat surelmu?"
+      ],
+      [
+       "I will text you later.",
+       "Saya akan mengirim pesan nanti."
+      ],
+      [
+       "The signal is bad.",
+       "Sinyalnya buruk."
+      ],
+      [
+       "Can you hear me?",
+       "Bisakah kamu mendengar saya?"
+      ],
+      [
+       "Please call me back.",
+       "Tolong telepon saya kembali."
+      ],
+      [
+       "I cannot open the file.",
+       "Saya tidak bisa membuka berkasnya."
+      ],
+      [
+       "Let us keep in touch.",
+       "Mari tetap berhubungan."
+      ]
+     ],
+     "f": [],
+     "o": []
+    }
+   ]
+  },
+  {
+   "n": "A2 Hobi, perasaan, dan rutinitas",
+   "desc": "Waktu luang, perasaan, hubungan, dan kegiatan sehari-hari",
+   "lessons": [
+    {
+     "id": "a2e1",
+     "t": "Olahraga dan hobi",
+     "note": "Olahraga bola pakai play: play football. Kegiatan lain pakai go + ing: go swimming, go hiking.",
+     "ph": 0,
+     "v": [
+      [
+       "Football",
+       "Sepak bola"
+      ],
+      [
+       "Basketball",
+       "Bola basket"
+      ],
+      [
+       "Badminton",
+       "Bulu tangkis"
+      ],
+      [
+       "Tennis",
+       "Tenis"
+      ],
+      [
+       "Swimming",
+       "Berenang"
+      ],
+      [
+       "Running",
+       "Berlari"
+      ],
+      [
+       "Cycling",
+       "Bersepeda"
+      ],
+      [
+       "Hiking",
+       "Mendaki"
+      ],
+      [
+       "Dancing",
+       "Menari"
+      ],
+      [
+       "Fishing",
+       "Memancing"
+      ],
+      [
+       "Photography",
+       "Fotografi"
+      ],
+      [
+       "Gardening",
+       "Berkebun"
+      ]
+     ],
+     "f": [
+      [
+       "I play ___ with my friends after school.",
+       "badminton",
+       [
+        "badminton",
+        "fishing",
+        "dancing"
+       ],
+       "Saya bermain bulu tangkis dengan teman-teman sepulang sekolah."
+      ],
+      [
+       "On Sundays we go ___ in the mountains.",
+       "hiking",
+       [
+        "hiking",
+        "tennis",
+        "football"
+       ],
+       "Pada hari Minggu kami mendaki di gunung."
+      ]
+     ],
+     "o": [
+      [
+       "I like cycling in the morning",
+       "Saya suka bersepeda di pagi hari"
+      ],
+      [
+       "She plays tennis on Fridays",
+       "Dia bermain tenis setiap hari Jumat"
+      ]
+     ]
+    },
+    {
+     "id": "a2e2",
+     "t": "Film dan musik",
+     "note": "Untuk menyebut selera pakai like atau love: I love horror movies, she likes pop music.",
+     "ph": 0,
+     "v": [
+      [
+       "Movie",
+       "Film"
+      ],
+      [
+       "Actor",
+       "Aktor"
+      ],
+      [
+       "Song",
+       "Lagu"
+      ],
+      [
+       "Singer",
+       "Penyanyi"
+      ],
+      [
+       "Concert",
+       "Konser"
+      ],
+      [
+       "Band",
+       "Band"
+      ],
+      [
+       "Guitar",
+       "Gitar"
+      ],
+      [
+       "Piano",
+       "Piano"
+      ],
+      [
+       "Drums",
+       "Drum"
+      ],
+      [
+       "Comedy",
+       "Komedi"
+      ],
+      [
+       "Horror",
+       "Horor"
+      ],
+      [
+       "Cartoon",
+       "Kartun"
+      ]
+     ],
+     "f": [
+      [
+       "I want to see a ___ because I want to laugh.",
+       "comedy",
+       [
+        "comedy",
+        "horror",
+        "concert"
+       ],
+       "Saya mau menonton komedi karena ingin tertawa."
+      ],
+      [
+       "My brother plays the ___ in a band.",
+       "guitar",
+       [
+        "guitar",
+        "movie",
+        "cartoon"
+       ],
+       "Kakakku bermain gitar di sebuah band."
+      ]
+     ],
+     "o": [
+      [
+       "I love this song",
+       "Saya suka lagu ini"
+      ],
+      [
+       "We watch a movie on Saturday",
+       "Kami menonton film hari Sabtu"
+      ]
+     ]
+    },
+    {
+     "id": "a2e3",
+     "t": "Pesta dan perayaan",
+     "note": "Untuk mengundang pakai Would you like to come ... ? Untuk menjawab senang hati pakai Yes, I would love to.",
+     "ph": 0,
+     "v": [
+      [
+       "Party",
+       "Pesta"
+      ],
+      [
+       "Gift",
+       "Hadiah"
+      ],
+      [
+       "Celebrate",
+       "Merayakan"
+      ],
+      [
+       "Invitation",
+       "Undangan"
+      ],
+      [
+       "Wedding",
+       "Pernikahan"
+      ],
+      [
+       "Holiday",
+       "Hari libur"
+      ],
+      [
+       "Festival",
+       "Festival"
+      ],
+      [
+       "Fireworks",
+       "Kembang api"
+      ],
+      [
+       "Balloon",
+       "Balon"
+      ],
+      [
+       "Candle",
+       "Lilin"
+      ],
+      [
+       "Decoration",
+       "Hiasan"
+      ],
+      [
+       "Surprise",
+       "Kejutan"
+      ]
+     ],
+     "f": [
+      [
+       "She gives me a ___ for my birthday.",
+       "gift",
+       [
+        "gift",
+        "candle",
+        "wedding"
+       ],
+       "Dia memberi saya hadiah untuk ulang tahunku."
+      ],
+      [
+       "We watch the ___ at the festival.",
+       "fireworks",
+       [
+        "fireworks",
+        "invitation",
+        "holiday"
+       ],
+       "Kami menonton kembang api di festival."
+      ]
+     ],
+     "o": [
+      [
+       "I go to the wedding party",
+       "Saya pergi ke pesta pernikahan"
+      ],
+      [
+       "She loves balloons",
+       "Dia suka balon"
+      ]
+     ]
+    },
+    {
+     "id": "a2e4",
+     "t": "Mengajak dan membuat rencana",
+     "note": "Untuk mengajak pakai Do you want to ... ? atau Let us ... Untuk menolak sopan pakai Sorry, I cannot.",
+     "ph": 1,
+     "v": [
+      [
+       "Do you want to come with me?",
+       "Apakah kamu mau ikut denganku?"
+      ],
+      [
+       "What are you doing this weekend?",
+       "Apa yang kamu lakukan akhir pekan ini?"
+      ],
+      [
+       "I am free on Saturday.",
+       "Saya senggang hari Sabtu."
+      ],
+      [
+       "Let us meet at six.",
+       "Ayo kita bertemu jam enam."
+      ],
+      [
+       "Sorry, I cannot come.",
+       "Maaf, saya tidak bisa datang."
+      ],
+      [
+       "Maybe next time.",
+       "Mungkin lain kali."
+      ],
+      [
+       "I would love to.",
+       "Dengan senang hati."
+      ],
+      [
+       "See you there!",
+       "Sampai jumpa di sana!"
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "a2r1",
+     "t": "Keluarga besar",
+     "note": "Parents selalu jamak: my parents are kind. Untuk saudara dari pasangan pakai in-law: brother-in-law.",
+     "ph": 0,
+     "v": [
+      [
+       "Grandparents",
+       "Kakek nenek"
+      ],
+      [
+       "Parents",
+       "Orang tua"
+      ],
+      [
+       "Cousin",
+       "Sepupu"
+      ],
+      [
+       "Nephew",
+       "Keponakan laki-laki"
+      ],
+      [
+       "Niece",
+       "Keponakan perempuan"
+      ],
+      [
+       "Brother-in-law",
+       "Ipar laki-laki"
+      ],
+      [
+       "Sister-in-law",
+       "Ipar perempuan"
+      ],
+      [
+       "Stepmother",
+       "Ibu tiri"
+      ],
+      [
+       "Twin",
+       "Kembar"
+      ],
+      [
+       "Relative",
+       "Kerabat"
+      ],
+      [
+       "Partner",
+       "Pasangan"
+      ],
+      [
+       "Teenager",
+       "Remaja"
+      ]
+     ],
+     "f": [
+      [
+       "My mother and father are my ___.",
+       "parents",
+       [
+        "parents",
+        "cousins",
+        "twins"
+       ],
+       "Ibu dan ayahku adalah orang tuaku."
+      ],
+      [
+       "My uncle’s son is my ___.",
+       "cousin",
+       [
+        "cousin",
+        "nephew",
+        "twin"
+       ],
+       "Anak laki-laki pamanku adalah sepupuku."
+      ]
+     ],
+     "o": [
+      [
+       "I have two cousins",
+       "Saya punya dua sepupu"
+      ],
+      [
+       "My parents live in Bandung",
+       "Orang tuaku tinggal di Bandung"
+      ]
+     ]
+    },
+    {
+     "id": "a2r2",
+     "t": "Perasaan",
+     "note": "Perasaan memakai I am + kata sifat. Perhatikan ed untuk perasaan dan ing untuk penyebab: I am bored, the movie is boring.",
+     "ph": 0,
+     "v": [
+      [
+       "Excited",
+       "Bersemangat"
+      ],
+      [
+       "Nervous",
+       "Gugup"
+      ],
+      [
+       "Proud",
+       "Bangga"
+      ],
+      [
+       "Worried",
+       "Khawatir"
+      ],
+      [
+       "Bored",
+       "Bosan"
+      ],
+      [
+       "Surprised",
+       "Terkejut"
+      ],
+      [
+       "Lonely",
+       "Kesepian"
+      ],
+      [
+       "Jealous",
+       "Cemburu"
+      ],
+      [
+       "Relaxed",
+       "Santai"
+      ],
+      [
+       "Confused",
+       "Bingung"
+      ],
+      [
+       "Embarrassed",
+       "Malu"
+      ],
+      [
+       "Grateful",
+       "Bersyukur"
+      ]
+     ],
+     "f": [
+      [
+       "I am ___ about my exam tomorrow.",
+       "nervous",
+       [
+        "nervous",
+        "proud",
+        "relaxed"
+       ],
+       "Saya gugup soal ujian besok."
+      ],
+      [
+       "She is ___ because her son won a prize.",
+       "proud",
+       [
+        "proud",
+        "bored",
+        "confused"
+       ],
+       "Dia bangga karena anaknya memenangkan hadiah."
+      ]
+     ],
+     "o": [
+      [
+       "I am very excited",
+       "Saya sangat bersemangat"
+      ],
+      [
+       "He feels lonely at night",
+       "Dia merasa kesepian di malam hari"
+      ]
+     ]
+    },
+    {
+     "id": "a2r3",
+     "t": "Sifat orang",
+     "note": "Untuk menggambarkan sifat orang pakai is + kata sifat: she is honest. Kata sifat tidak punya bentuk jamak: they are honest.",
+     "ph": 0,
+     "v": [
+      [
+       "Friendly",
+       "Ramah"
+      ],
+      [
+       "Polite",
+       "Sopan"
+      ],
+      [
+       "Honest",
+       "Jujur"
+      ],
+      [
+       "Generous",
+       "Dermawan"
+      ],
+      [
+       "Patient",
+       "Sabar"
+      ],
+      [
+       "Brave",
+       "Berani"
+      ],
+      [
+       "Creative",
+       "Kreatif"
+      ],
+      [
+       "Rude",
+       "Kasar"
+      ],
+      [
+       "Selfish",
+       "Egois"
+      ],
+      [
+       "Cheerful",
+       "Ceria"
+      ],
+      [
+       "Serious",
+       "Serius"
+      ],
+      [
+       "Clever",
+       "Cerdik"
+      ]
+     ],
+     "f": [
+      [
+       "He always says the truth. He is ___.",
+       "honest",
+       [
+        "honest",
+        "selfish",
+        "rude"
+       ],
+       "Dia selalu berkata jujur. Dia jujur."
+      ],
+      [
+       "Please be ___. We are waiting for the bus.",
+       "patient",
+       [
+        "patient",
+        "brave",
+        "creative"
+       ],
+       "Tolong sabar. Kita sedang menunggu bus."
+      ]
+     ],
+     "o": [
+      [
+       "My teacher is very friendly",
+       "Guruku sangat ramah"
+      ],
+      [
+       "He is polite to everyone",
+       "Dia sopan kepada semua orang"
+      ]
+     ]
+    },
+    {
+     "id": "a2r4",
+     "t": "Mengungkapkan perasaan",
+     "note": "Untuk menghibur teman pakai Do not worry atau Cheer up. Untuk memuji pakai I am proud of you.",
+     "ph": 1,
+     "v": [
+      [
+       "How do you feel today?",
+       "Bagaimana perasaanmu hari ini?"
+      ],
+      [
+       "I am so happy for you.",
+       "Saya ikut senang untukmu."
+      ],
+      [
+       "Do not worry about it.",
+       "Jangan khawatir soal itu."
+      ],
+      [
+       "I miss my family.",
+       "Saya rindu keluargaku."
+      ],
+      [
+       "You look tired.",
+       "Kamu terlihat lelah."
+      ],
+      [
+       "Cheer up!",
+       "Semangat!"
+      ],
+      [
+       "I am proud of you.",
+       "Saya bangga padamu."
+      ],
+      [
+       "Thank you for listening.",
+       "Terima kasih sudah mendengarkan."
+      ]
+     ],
+     "f": [],
+     "o": []
+    },
+    {
+     "id": "a2d1",
+     "t": "Rutinitas harian",
+     "note": "Rutinitas memakai present simple. Untuk he dan she, have menjadi has: she has breakfast at seven.",
+     "ph": 0,
+     "v": [
+      [
+       "Get up",
+       "Bangun dari tempat tidur"
+      ],
+      [
+       "Brush your teeth",
+       "Menyikat gigi"
+      ],
+      [
+       "Take a shower",
+       "Mandi"
+      ],
+      [
+       "Get dressed",
+       "Berpakaian"
+      ],
+      [
+       "Have breakfast",
+       "Sarapan"
+      ],
+      [
+       "Go to work",
+       "Berangkat kerja"
+      ],
+      [
+       "Have lunch",
+       "Makan siang"
+      ],
+      [
+       "Come home",
+       "Pulang"
+      ],
+      [
+       "Have dinner",
+       "Makan malam"
+      ],
+      [
+       "Watch TV",
+       "Menonton TV"
+      ],
+      [
+       "Go to bed",
+       "Pergi tidur"
+      ],
+      [
+       "Take a nap",
+       "Tidur siang"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ at six and then I take a shower.",
+       "get up",
+       [
+        "get up",
+        "go to bed",
+        "come home"
+       ],
+       "Saya bangun jam enam lalu mandi."
+      ],
+      [
+       "She ___ at seven in the evening.",
+       "has dinner",
+       [
+        "has dinner",
+        "has breakfast",
+        "goes to bed"
+       ],
+       "Dia makan malam jam tujuh malam."
+      ]
+     ],
+     "o": [
+      [
+       "I have breakfast at seven",
+       "Saya sarapan jam tujuh"
+      ],
+      [
+       "She goes to bed at ten",
+       "Dia pergi tidur jam sepuluh"
+      ]
+     ]
+    },
+    {
+     "id": "a2d2",
+     "t": "Penunjuk waktu",
+     "note": "Penunjuk waktu membantu memilih bentuk kata kerja: yesterday dan last week untuk masa lalu, tomorrow dan next week untuk masa depan.",
+     "ph": 0,
+     "v": [
+      [
+       "Yesterday",
+       "Kemarin"
+      ],
+      [
+       "Tomorrow",
+       "Besok"
+      ],
+      [
+       "Tonight",
+       "Malam ini"
+      ],
+      [
+       "Last week",
+       "Minggu lalu"
+      ],
+      [
+       "Next week",
+       "Minggu depan"
+      ],
+      [
+       "Last year",
+       "Tahun lalu"
+      ],
+      [
+       "Next month",
+       "Bulan depan"
+      ],
+      [
+       "Now",
+       "Sekarang"
+      ],
+      [
+       "Soon",
+       "Sebentar lagi"
+      ],
+      [
+       "Already",
+       "Sudah"
+      ],
+      [
+       "Yet",
+       "Belum (dalam pertanyaan)"
+      ],
+      [
+       "Ago",
+       "Yang lalu"
+      ]
+     ],
+     "f": [
+      [
+       "I went to Bali ___ year.",
+       "last",
+       [
+        "last",
+        "next",
+        "tomorrow"
+       ],
+       "Saya pergi ke Bali tahun lalu."
+      ],
+      [
+       "We will meet ___ week.",
+       "next",
+       [
+        "next",
+        "last",
+        "ago"
+       ],
+       "Kita akan bertemu minggu depan."
+      ]
+     ],
+     "o": [
+      [
+       "See you tomorrow",
+       "Sampai jumpa besok"
+      ],
+      [
+       "I was here two days ago",
+       "Saya ada di sini dua hari yang lalu"
+      ]
+     ]
+    },
+    {
+     "id": "a2d3",
+     "t": "Seberapa sering dan berapa lama",
+     "note": "Seberapa sering dijawab dengan once, twice, three times + a day, a week, a month. Berapa lama dijawab dengan for: for two hours.",
+     "ph": 0,
+     "v": [
+      [
+       "Every day",
+       "Setiap hari"
+      ],
+      [
+       "Every week",
+       "Setiap minggu"
+      ],
+      [
+       "Once a week",
+       "Seminggu sekali"
+      ],
+      [
+       "Twice a day",
+       "Dua kali sehari"
+      ],
+      [
+       "Three times a month",
+       "Tiga kali sebulan"
+      ],
+      [
+       "For two hours",
+       "Selama dua jam"
+      ],
+      [
+       "Since Monday",
+       "Sejak hari Senin"
+      ],
+      [
+       "All day",
+       "Sepanjang hari"
+      ],
+      [
+       "Until six",
+       "Sampai jam enam"
+      ],
+      [
+       "Every night",
+       "Setiap malam"
+      ],
+      [
+       "Once a year",
+       "Setahun sekali"
+      ]
+     ],
+     "f": [
+      [
+       "I go to the gym ___ a week.",
+       "twice",
+       [
+        "twice",
+        "every",
+        "since"
+       ],
+       "Saya pergi ke pusat kebugaran dua kali seminggu."
+      ],
+      [
+       "I study English ___ two hours every day.",
+       "for",
+       [
+        "for",
+        "since",
+        "until"
+       ],
+       "Saya belajar bahasa Inggris selama dua jam setiap hari."
+      ]
+     ],
+     "o": [
+      [
+       "I clean my room once a week",
+       "Saya membersihkan kamar seminggu sekali"
+      ],
+      [
+       "He works until six",
+       "Dia bekerja sampai jam enam"
+      ]
+     ]
+    },
+    {
+     "id": "a2d4",
+     "t": "Membicarakan rencana",
+     "note": "Untuk rencana yang sudah dipikirkan pakai am, is, atau are going to: I am going to visit my grandmother.",
+     "ph": 1,
+     "v": [
+      [
+       "What are your plans for tomorrow?",
+       "Apa rencanamu untuk besok?"
+      ],
+      [
+       "I am going to visit my grandmother.",
+       "Saya akan mengunjungi nenek saya."
+      ],
+      [
+       "We are going to have a picnic.",
+       "Kami akan piknik."
+      ],
+      [
+       "Are you free tonight?",
+       "Apakah kamu senggang malam ini?"
+      ],
+      [
+       "I have to work on Sunday.",
+       "Saya harus bekerja hari Minggu."
+      ],
+      [
+       "What time shall we meet?",
+       "Jam berapa kita bertemu?"
+      ],
+      [
+       "I will call you tomorrow.",
+       "Saya akan meneleponmu besok."
+      ],
+      [
+       "It depends on the weather.",
+       "Itu tergantung cuaca."
+      ]
+     ],
+     "f": [],
+     "o": []
+    }
+   ]
+  },
+  {
+   "n": "A2 Tata bahasa",
+   "desc": "Masa lampau, masa depan, perbandingan, dan kewajiban",
+   "lessons": [
+    {
+     "id": "ga1",
+     "t": "Masa lampau: kata kerja beraturan",
+     "note": "Untuk kejadian yang sudah selesai, tambahkan ed: I watched TV yesterday. Akhiran e cukup ditambah d (liked), akhiran y menjadi ied (studied), dan ada yang menggandakan huruf (stopped).",
+     "ph": 0,
+     "v": [
+      [
+       "worked",
+       "Bekerja (lampau)"
+      ],
+      [
+       "played",
+       "Bermain (lampau)"
+      ],
+      [
+       "watched",
+       "Menonton (lampau)"
+      ],
+      [
+       "cleaned",
+       "Membersihkan (lampau)"
+      ],
+      [
+       "studied",
+       "Belajar (lampau)"
+      ],
+      [
+       "stopped",
+       "Berhenti (lampau)"
+      ],
+      [
+       "visited",
+       "Mengunjungi (lampau)"
+      ],
+      [
+       "liked",
+       "Menyukai (lampau)"
+      ]
+     ],
+     "f": [
+      [
+       "Yesterday I ___ football with my friends.",
+       "played",
+       [
+        "played",
+        "play",
+        "plays"
+       ],
+       "Kemarin saya bermain sepak bola dengan teman-teman."
+      ],
+      [
+       "She ___ English last night.",
+       "studied",
+       [
+        "studied",
+        "studyed",
+        "studies"
+       ],
+       "Dia belajar bahasa Inggris tadi malam."
+      ]
+     ],
+     "o": [
+      [
+       "I visited my grandmother yesterday",
+       "Kemarin saya mengunjungi nenek saya"
+      ],
+      [
+       "We watched a movie last night",
+       "Kami menonton film tadi malam"
+      ]
+     ]
+    },
+    {
+     "id": "ga2",
+     "t": "Masa lampau: kata kerja tak beraturan 1",
+     "note": "Banyak kata kerja yang sangat sering dipakai berubah bentuk sendiri di masa lampau: go menjadi went, eat menjadi ate. Hafalkan sedikit demi sedikit.",
+     "ph": 0,
+     "v": [
+      [
+       "went",
+       "Pergi (lampau)"
+      ],
+      [
+       "came",
+       "Datang (lampau)"
+      ],
+      [
+       "saw",
+       "Melihat (lampau)"
+      ],
+      [
+       "ate",
+       "Makan (lampau)"
+      ],
+      [
+       "drank",
+       "Minum (lampau)"
+      ],
+      [
+       "had",
+       "Memiliki (lampau)"
+      ],
+      [
+       "made",
+       "Membuat (lampau)"
+      ],
+      [
+       "took",
+       "Mengambil (lampau)"
+      ],
+      [
+       "got",
+       "Mendapat (lampau)"
+      ],
+      [
+       "gave",
+       "Memberi (lampau)"
+      ]
+     ],
+     "f": [
+      [
+       "Yesterday we ___ to the market.",
+       "went",
+       [
+        "went",
+        "goed",
+        "go"
+       ],
+       "Kemarin kami pergi ke pasar."
+      ],
+      [
+       "I ___ rice for lunch.",
+       "ate",
+       [
+        "ate",
+        "eated",
+        "eats"
+       ],
+       "Saya makan nasi untuk makan siang."
+      ]
+     ],
+     "o": [
+      [
+       "She came home late",
+       "Dia pulang larut"
+      ],
+      [
+       "I saw a big bird",
+       "Saya melihat burung besar"
+      ]
+     ]
+    },
+    {
+     "id": "ga3",
+     "t": "Masa lampau: kata kerja tak beraturan 2",
+     "note": "Perhatikan: read dibaca red di masa lampau, walau tulisannya sama dengan bentuk dasarnya.",
+     "ph": 0,
+     "v": [
+      [
+       "bought",
+       "Membeli (lampau)"
+      ],
+      [
+       "wrote",
+       "Menulis (lampau)"
+      ],
+      [
+       "read",
+       "Membaca (lampau)"
+      ],
+      [
+       "spoke",
+       "Berbicara (lampau)"
+      ],
+      [
+       "met",
+       "Bertemu (lampau)"
+      ],
+      [
+       "found",
+       "Menemukan (lampau)"
+      ],
+      [
+       "lost",
+       "Kehilangan (lampau)"
+      ],
+      [
+       "sat",
+       "Duduk (lampau)"
+      ],
+      [
+       "slept",
+       "Tidur (lampau)"
+      ],
+      [
+       "won",
+       "Menang (lampau)"
+      ],
+      [
+       "paid",
+       "Membayar (lampau)"
+      ],
+      [
+       "thought",
+       "Berpikir (lampau)"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ a new phone last week.",
+       "bought",
+       [
+        "bought",
+        "buyed",
+        "buy"
+       ],
+       "Saya membeli ponsel baru minggu lalu."
+      ],
+      [
+       "She ___ a letter to her friend.",
+       "wrote",
+       [
+        "wrote",
+        "writed",
+        "writes"
+       ],
+       "Dia menulis surat untuk temannya."
+      ]
+     ],
+     "o": [
+      [
+       "He slept for ten hours",
+       "Dia tidur selama sepuluh jam"
+      ],
+      [
+       "We met at the station",
+       "Kami bertemu di stasiun"
+      ]
+     ]
+    },
+    {
+     "id": "ga4",
+     "t": "Masa lampau: negatif dan pertanyaan",
+     "note": "Negatif dan pertanyaan di masa lampau memakai did, lalu kata kerja kembali ke bentuk dasar: I did not go, Did you go?",
+     "ph": 0,
+     "v": [
+      [
+       "I did not go",
+       "Saya tidak pergi"
+      ],
+      [
+       "She did not eat",
+       "Dia tidak makan"
+      ],
+      [
+       "Did you see it?",
+       "Apakah kamu melihatnya?"
+      ],
+      [
+       "Did he come?",
+       "Apakah dia datang?"
+      ],
+      [
+       "Yes, I did.",
+       "Ya, saya melakukannya."
+      ],
+      [
+       "No, I did not.",
+       "Tidak, saya tidak melakukannya."
+      ]
+     ],
+     "f": [
+      [
+       "I did not ___ to school yesterday.",
+       "go",
+       [
+        "go",
+        "went",
+        "going"
+       ],
+       "Kemarin saya tidak pergi ke sekolah."
+      ],
+      [
+       "___ you watch the movie?",
+       "Did",
+       [
+        "Did",
+        "Do",
+        "Does"
+       ],
+       "Apakah kamu menonton filmnya?"
+      ]
+     ],
+     "o": [
+      [
+       "I did not see him",
+       "Saya tidak melihatnya"
+      ],
+      [
+       "Did you eat breakfast",
+       "Apakah kamu sarapan"
+      ]
+     ]
+    },
+    {
+     "id": "ga5",
+     "t": "Rencana: be going to",
+     "note": "Be going to dipakai untuk rencana atau hal yang hampir pasti terjadi: I am going to visit Bali next month.",
+     "ph": 0,
+     "v": [
+      [
+       "I am going to study",
+       "Saya akan belajar"
+      ],
+      [
+       "She is going to cook",
+       "Dia akan memasak"
+      ],
+      [
+       "We are going to travel",
+       "Kami akan bepergian"
+      ],
+      [
+       "They are going to win",
+       "Mereka akan menang"
+      ],
+      [
+       "It is going to rain",
+       "Akan hujan"
+      ],
+      [
+       "Are you going to come?",
+       "Apakah kamu akan datang?"
+      ],
+      [
+       "I am not going to go",
+       "Saya tidak akan pergi"
+      ]
+     ],
+     "f": [
+      [
+       "She is going to ___ a cake tomorrow.",
+       "bake",
+       [
+        "bake",
+        "baked",
+        "baking"
+       ],
+       "Dia akan memanggang kue besok."
+      ],
+      [
+       "We ___ going to travel next week.",
+       "are",
+       [
+        "are",
+        "is",
+        "am"
+       ],
+       "Kami akan bepergian minggu depan."
+      ]
+     ],
+     "o": [
+      [
+       "I am going to study tonight",
+       "Saya akan belajar malam ini"
+      ],
+      [
+       "It is going to rain tomorrow",
+       "Besok akan hujan"
+      ]
+     ]
+    },
+    {
+     "id": "ga6",
+     "t": "Will: janji dan keputusan cepat",
+     "note": "Pakai will untuk janji, tawaran, dan keputusan saat berbicara: I will help you. Setelah will, kata kerja tidak berubah.",
+     "ph": 0,
+     "v": [
+      [
+       "I will help you",
+       "Saya akan membantumu"
+      ],
+      [
+       "I will call you",
+       "Saya akan meneleponmu"
+      ],
+      [
+       "It will be fun",
+       "Itu akan menyenangkan"
+      ],
+      [
+       "She will come soon",
+       "Dia akan segera datang"
+      ],
+      [
+       "We will not be late",
+       "Kami tidak akan terlambat"
+      ],
+      [
+       "Will you help me?",
+       "Maukah kamu membantu saya?"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ call you tonight. I promise.",
+       "will",
+       [
+        "will",
+        "am",
+        "did"
+       ],
+       "Saya akan meneleponmu malam ini. Saya janji."
+      ],
+      [
+       "It is hot. I will ___ the window.",
+       "open",
+       [
+        "open",
+        "opens",
+        "opened"
+       ],
+       "Panas. Saya akan membuka jendelanya."
+      ]
+     ],
+     "o": [
+      [
+       "I will help you",
+       "Saya akan membantumu"
+      ],
+      [
+       "We will not be late",
+       "Kami tidak akan terlambat"
+      ]
+     ]
+    },
+    {
+     "id": "ga7",
+     "t": "Membandingkan: lebih ...",
+     "note": "Kata sifat pendek ditambah er (taller), akhiran y menjadi ier (easier). Kata sifat panjang memakai more (more expensive). Setelahnya pakai than. Tidak beraturan: good menjadi better, bad menjadi worse.",
+     "ph": 0,
+     "v": [
+      [
+       "bigger",
+       "Lebih besar"
+      ],
+      [
+       "smaller",
+       "Lebih kecil"
+      ],
+      [
+       "taller",
+       "Lebih tinggi"
+      ],
+      [
+       "faster",
+       "Lebih cepat"
+      ],
+      [
+       "cheaper",
+       "Lebih murah"
+      ],
+      [
+       "easier",
+       "Lebih mudah"
+      ],
+      [
+       "more expensive",
+       "Lebih mahal"
+      ],
+      [
+       "more interesting",
+       "Lebih menarik"
+      ],
+      [
+       "better",
+       "Lebih baik"
+      ],
+      [
+       "worse",
+       "Lebih buruk"
+      ]
+     ],
+     "f": [
+      [
+       "My bag is ___ than your bag.",
+       "bigger",
+       [
+        "bigger",
+        "big",
+        "more big"
+       ],
+       "Tasku lebih besar daripada tasmu."
+      ],
+      [
+       "This book is ___ than that book.",
+       "more interesting",
+       [
+        "more interesting",
+        "interestinger",
+        "most interesting"
+       ],
+       "Buku ini lebih menarik daripada buku itu."
+      ]
+     ],
+     "o": [
+      [
+       "A car is faster than a bicycle",
+       "Mobil lebih cepat daripada sepeda"
+      ],
+      [
+       "This shirt is cheaper than that shirt",
+       "Kemeja ini lebih murah daripada kemeja itu"
+      ]
+     ]
+    },
+    {
+     "id": "ga8",
+     "t": "Membandingkan: paling ...",
+     "note": "Untuk yang paling pakai the + est (the tallest) atau the most + kata sifat panjang (the most expensive). Tidak beraturan: the best dan the worst.",
+     "ph": 0,
+     "v": [
+      [
+       "the biggest",
+       "Paling besar"
+      ],
+      [
+       "the smallest",
+       "Paling kecil"
+      ],
+      [
+       "the tallest",
+       "Paling tinggi"
+      ],
+      [
+       "the fastest",
+       "Paling cepat"
+      ],
+      [
+       "the cheapest",
+       "Paling murah"
+      ],
+      [
+       "the easiest",
+       "Paling mudah"
+      ],
+      [
+       "the most expensive",
+       "Paling mahal"
+      ],
+      [
+       "the most interesting",
+       "Paling menarik"
+      ],
+      [
+       "the best",
+       "Paling baik"
+      ],
+      [
+       "the worst",
+       "Paling buruk"
+      ]
+     ],
+     "f": [
+      [
+       "Mount Everest is ___ mountain in the world.",
+       "the highest",
+       [
+        "the highest",
+        "higher",
+        "high"
+       ],
+       "Gunung Everest adalah gunung tertinggi di dunia."
+      ],
+      [
+       "Rina is ___ student in my class.",
+       "the smartest",
+       [
+        "the smartest",
+        "smarter",
+        "smart"
+       ],
+       "Rina adalah pelajar terpintar di kelasku."
+      ]
+     ],
+     "o": [
+      [
+       "She is the tallest girl in the class",
+       "Dia adalah anak perempuan tertinggi di kelas"
+      ],
+      [
+       "This is the best day",
+       "Ini hari terbaik"
+      ]
+     ]
+    },
+    {
+     "id": "ga9",
+     "t": "Keharusan dan saran: must, have to, should",
+     "note": "Must dan have to untuk kewajiban. Should untuk saran. Must not berarti dilarang, sedangkan do not have to berarti tidak harus.",
+     "ph": 0,
+     "v": [
+      [
+       "must",
+       "Harus (kewajiban kuat)"
+      ],
+      [
+       "have to",
+       "Harus (kewajiban)"
+      ],
+      [
+       "should",
+       "Sebaiknya"
+      ],
+      [
+       "should not",
+       "Sebaiknya jangan"
+      ],
+      [
+       "must not",
+       "Dilarang"
+      ],
+      [
+       "do not have to",
+       "Tidak harus"
+      ]
+     ],
+     "f": [
+      [
+       "You ___ drink more water. It is good for you.",
+       "should",
+       [
+        "should",
+        "must not",
+        "did"
+       ],
+       "Kamu sebaiknya minum lebih banyak air. Itu baik untukmu."
+      ],
+      [
+       "I ___ get up early. My work starts at six.",
+       "have to",
+       [
+        "have to",
+        "should not",
+        "must not"
+       ],
+       "Saya harus bangun pagi. Pekerjaan saya mulai jam enam."
+      ]
+     ],
+     "o": [
+      [
+       "You should sleep early",
+       "Kamu sebaiknya tidur lebih awal"
+      ],
+      [
+       "I have to work tomorrow",
+       "Saya harus bekerja besok"
+      ]
+     ]
+    },
+    {
+     "id": "ga10",
+     "t": "Would like, want to, dan need to",
+     "note": "Would like lebih sopan daripada want. Setelah want to dan need to, pakai kata kerja dasar: I want to go, I need to rest.",
+     "ph": 0,
+     "v": [
+      [
+       "I would like a coffee",
+       "Saya mau kopi (sopan)"
+      ],
+      [
+       "Would you like some tea?",
+       "Maukah Anda teh?"
+      ],
+      [
+       "I want to go home",
+       "Saya ingin pulang"
+      ],
+      [
+       "She wants to learn English",
+       "Dia ingin belajar bahasa Inggris"
+      ],
+      [
+       "I need to rest",
+       "Saya perlu istirahat"
+      ],
+      [
+       "He needs a new phone",
+       "Dia butuh ponsel baru"
+      ]
+     ],
+     "f": [
+      [
+       "I ___ like a glass of water, please.",
+       "would",
+       [
+        "would",
+        "am",
+        "do"
+       ],
+       "Saya mau segelas air, tolong."
+      ],
+      [
+       "She wants ___ English in Australia.",
+       "to study",
+       [
+        "to study",
+        "study",
+        "studying"
+       ],
+       "Dia ingin belajar bahasa Inggris di Australia."
+      ]
+     ],
+     "o": [
+      [
+       "I would like some tea",
+       "Saya mau sedikit teh"
+      ],
+      [
+       "He wants to buy a car",
+       "Dia ingin membeli mobil"
+      ]
+     ]
+    },
+    {
+     "id": "ga11",
+     "t": "Many, much, dan a lot of",
+     "note": "Pakai many untuk benda yang bisa dihitung (many books), much untuk yang tidak (much water). A lot of bisa dipakai untuk keduanya.",
+     "ph": 0,
+     "v": [
+      [
+       "many",
+       "Banyak (bisa dihitung)"
+      ],
+      [
+       "much",
+       "Banyak (tak bisa dihitung)"
+      ],
+      [
+       "a lot of",
+       "Banyak (keduanya)"
+      ],
+      [
+       "a few",
+       "Beberapa (bisa dihitung)"
+      ],
+      [
+       "a little",
+       "Sedikit (tak bisa dihitung)"
+      ],
+      [
+       "how many?",
+       "Berapa banyak (bisa dihitung)?"
+      ],
+      [
+       "how much?",
+       "Berapa banyak (tak bisa dihitung)?"
+      ]
+     ],
+     "f": [
+      [
+       "How ___ water do you drink?",
+       "much",
+       [
+        "much",
+        "many",
+        "few"
+       ],
+       "Berapa banyak air yang kamu minum?"
+      ],
+      [
+       "There are many ___ in my bag.",
+       "books",
+       [
+        "books",
+        "rice",
+        "water"
+       ],
+       "Ada banyak buku di tasku."
+      ]
+     ],
+     "o": [
+      [
+       "How many books do you have",
+       "Berapa banyak buku yang kamu punya"
+      ],
+      [
+       "I drink a lot of water",
+       "Saya minum banyak air"
+      ]
+     ]
+    },
+    {
+     "id": "ga12",
+     "t": "Too dan enough",
+     "note": "Too berarti berlebihan dan biasanya negatif: too hot. Enough diletakkan setelah kata sifat (tall enough) dan sebelum kata benda (enough money).",
+     "ph": 0,
+     "v": [
+      [
+       "too",
+       "Terlalu"
+      ],
+      [
+       "enough",
+       "Cukup"
+      ],
+      [
+       "not enough",
+       "Tidak cukup"
+      ],
+      [
+       "too much",
+       "Terlalu banyak (tak terhitung)"
+      ],
+      [
+       "too many",
+       "Terlalu banyak (terhitung)"
+      ],
+      [
+       "very",
+       "Sangat"
+      ]
+     ],
+     "f": [
+      [
+       "The tea is ___ hot. I cannot drink it.",
+       "too",
+       [
+        "too",
+        "very",
+        "enough"
+       ],
+       "Tehnya terlalu panas. Saya tidak bisa meminumnya."
+      ],
+      [
+       "I do not have ___ money to buy it.",
+       "enough",
+       [
+        "enough",
+        "too",
+        "very"
+       ],
+       "Saya tidak punya cukup uang untuk membelinya."
+      ]
+     ],
+     "o": [
+      [
+       "It is too cold today",
+       "Hari ini terlalu dingin"
+      ],
+      [
+       "I have enough time",
+       "Saya punya cukup waktu"
+      ]
+     ]
+    },
+    {
+     "id": "ga13",
+     "t": "Kata keterangan cara",
+     "note": "Kata sifat + ly menjadi kata keterangan cara: slow menjadi slowly. Pengecualian: good menjadi well, sedangkan fast dan hard tidak berubah.",
+     "ph": 0,
+     "v": [
+      [
+       "slowly",
+       "Dengan pelan"
+      ],
+      [
+       "quickly",
+       "Dengan cepat"
+      ],
+      [
+       "carefully",
+       "Dengan hati-hati"
+      ],
+      [
+       "loudly",
+       "Dengan keras (suara)"
+      ],
+      [
+       "quietly",
+       "Dengan tenang"
+      ],
+      [
+       "well",
+       "Dengan baik"
+      ],
+      [
+       "badly",
+       "Dengan buruk"
+      ],
+      [
+       "happily",
+       "Dengan gembira"
+      ],
+      [
+       "hard",
+       "Dengan sungguh-sungguh"
+      ],
+      [
+       "fast",
+       "Cepat (tidak berubah)"
+      ]
+     ],
+     "f": [
+      [
+       "She speaks English very ___.",
+       "well",
+       [
+        "well",
+        "good",
+        "goodly"
+       ],
+       "Dia berbicara bahasa Inggris dengan sangat baik."
+      ],
+      [
+       "Please walk ___. The floor is wet.",
+       "carefully",
+       [
+        "carefully",
+        "careful",
+        "care"
+       ],
+       "Tolong berjalan dengan hati-hati. Lantainya basah."
+      ]
+     ],
+     "o": [
+      [
+       "He drives slowly",
+       "Dia mengemudi dengan pelan"
+      ],
+      [
+       "They work hard",
+       "Mereka bekerja keras"
+      ]
+     ]
+    },
+    {
+     "id": "ga14",
+     "t": "Kata depan waktu: at, on, in",
+     "note": "At untuk jam dan waktu tertentu, on untuk hari dan tanggal, in untuk bulan, tahun, dan bagian hari.",
+     "ph": 0,
+     "v": [
+      [
+       "at six o’clock",
+       "Pada jam enam"
+      ],
+      [
+       "at night",
+       "Pada malam hari"
+      ],
+      [
+       "on Monday",
+       "Pada hari Senin"
+      ],
+      [
+       "on my birthday",
+       "Pada hari ulang tahunku"
+      ],
+      [
+       "in May",
+       "Pada bulan Mei"
+      ],
+      [
+       "in 2025",
+       "Pada tahun 2025"
+      ],
+      [
+       "in the morning",
+       "Pada pagi hari"
+      ],
+      [
+       "at the weekend",
+       "Pada akhir pekan"
+      ]
+     ],
+     "f": [
+      [
+       "I wake up ___ six o’clock.",
+       "at",
+       [
+        "at",
+        "on",
+        "in"
+       ],
+       "Saya bangun pada jam enam."
+      ],
+      [
+       "My birthday is ___ May.",
+       "in",
+       [
+        "in",
+        "on",
+        "at"
+       ],
+       "Ulang tahunku pada bulan Mei."
+      ]
+     ],
+     "o": [
+      [
+       "I have a meeting on Monday",
+       "Saya ada rapat hari Senin"
+      ],
+      [
+       "We eat dinner at seven",
+       "Kami makan malam jam tujuh"
+      ]
+     ]
+    },
+    {
+     "id": "ga15",
+     "t": "Pengalaman: present perfect dasar",
+     "note": "Present perfect (have atau has + bentuk ketiga kata kerja) dipakai untuk pengalaman tanpa menyebut waktu: I have been to Bali. Ever dan never sering dipakai bersamanya.",
+     "ph": 0,
+     "v": [
+      [
+       "I have been to Bali",
+       "Saya pernah ke Bali"
+      ],
+      [
+       "She has never eaten sushi",
+       "Dia belum pernah makan sushi"
+      ],
+      [
+       "Have you ever seen a lion?",
+       "Pernahkah kamu melihat singa?"
+      ],
+      [
+       "Yes, I have.",
+       "Ya, pernah."
+      ],
+      [
+       "No, I have not.",
+       "Tidak, belum pernah."
+      ],
+      [
+       "I have already finished",
+       "Saya sudah selesai"
+      ],
+      [
+       "I have not finished yet",
+       "Saya belum selesai"
+      ]
+     ],
+     "f": [
+      [
+       "I have ___ to Japan twice.",
+       "been",
+       [
+        "been",
+        "was",
+        "be"
+       ],
+       "Saya pernah ke Jepang dua kali."
+      ],
+      [
+       "She ___ never eaten sushi.",
+       "has",
+       [
+        "has",
+        "have",
+        "did"
+       ],
+       "Dia belum pernah makan sushi."
+      ]
+     ],
+     "o": [
+      [
+       "I have never seen a tiger",
+       "Saya belum pernah melihat harimau"
+      ],
+      [
+       "She has visited Bali",
+       "Dia pernah mengunjungi Bali"
+      ]
+     ]
+    },
+    {
+     "id": "ga16",
+     "t": "Rangkuman: memilih bentuk kata kerja",
+     "note": "Pilih bentuk kata kerja dari penunjuk waktu: every day (present simple), now (present continuous), yesterday (past simple), tomorrow (will), for two years (present perfect).",
+     "ph": 0,
+     "v": [
+      [
+       "I work every day",
+       "Saya bekerja setiap hari"
+      ],
+      [
+       "I am working now",
+       "Saya sedang bekerja sekarang"
+      ],
+      [
+       "I worked yesterday",
+       "Kemarin saya bekerja"
+      ],
+      [
+       "I will work tomorrow",
+       "Besok saya akan bekerja"
+      ],
+      [
+       "I have worked here for two years",
+       "Saya sudah bekerja di sini selama dua tahun"
+      ],
+      [
+       "I am going to work on Sunday",
+       "Saya akan bekerja hari Minggu"
+      ]
+     ],
+     "f": [
+      [
+       "Yesterday I ___ in the garden.",
+       "worked",
+       [
+        "worked",
+        "work",
+        "will work"
+       ],
+       "Kemarin saya bekerja di kebun."
+      ],
+      [
+       "Right now she ___ a letter.",
+       "is writing",
+       [
+        "is writing",
+        "writes",
+        "wrote"
+       ],
+       "Sekarang dia sedang menulis surat."
+      ]
+     ],
+     "o": [
+      [
+       "I am working now",
+       "Saya sedang bekerja sekarang"
+      ],
+      [
+       "I worked yesterday",
+       "Kemarin saya bekerja"
       ]
      ]
     }

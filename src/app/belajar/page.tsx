@@ -33,6 +33,7 @@ export default async function Belajar() {
         {user ? (
           <form action={signOut} className="flex flex-wrap items-center gap-3">
             <span className="rounded-xl bg-cream px-3 py-1 font-bold">Level {level}, {profile?.streak ?? 0} hari beruntun</span>
+            <Link className="btn-sec !px-4 !py-2" href="/profil">Profil</Link>
             <button className="btn-sec !px-4 !py-2">Keluar</button>
           </form>
         ) : (
